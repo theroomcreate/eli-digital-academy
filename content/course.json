@@ -1,0 +1,89 @@
+{
+  "title": "Microsoft Office Essentials for Administrative Professionals",
+  "description": "Master the practical digital skills that modern workplaces demand. From file management to professional documents and spreadsheets, this course prepares you for real administrative tasks.",
+  "modules": [
+    {
+      "id": "module1",
+      "title": "Computer Foundations",
+      "locked": false,
+      "lessons": [
+        { "id": "lesson1", "title": "Understanding Files and Folders", "duration": "15 min", "quiz": true },
+        { "id": "lesson2", "title": "File Types Explained", "duration": "12 min", "quiz": true },
+        { "id": "lesson3", "title": "Saving and Organizing Documents", "duration": "18 min", "quiz": true },
+        { "id": "lesson4", "title": "Introduction to PDF Documents", "duration": "12 min", "quiz": true },
+        { "id": "lesson5", "title": "PDF Conversion Basics", "duration": "15 min", "quiz": true }
+      ]
+    },
+    {
+      "id": "module2",
+      "title": "Microsoft Word Basics",
+      "locked": false,
+      "lessons": [
+        { "id": "lesson1", "title": "Creating Your First Business Document", "duration": "18 min", "quiz": true },
+        { "id": "lesson2", "title": "Formatting for Professional Communication", "duration": "20 min", "quiz": true },
+        { "id": "lesson3", "title": "Find, Replace, and Spell Check", "duration": "15 min", "quiz": true },
+        { "id": "lesson4", "title": "Working with Tables in Word", "duration": "18 min", "quiz": true }
+      ]
+    },
+    {
+      "id": "module3",
+      "title": "Microsoft Word Projects",
+      "locked": true,
+      "lessons": [
+        { "id": "lesson1", "title": "Creating a Company Letterhead", "duration": "22 min", "quiz": true },
+        { "id": "lesson2", "title": "Building a Meeting Agenda", "duration": "20 min", "quiz": true },
+        { "id": "lesson3", "title": "Mail Merge for Bulk Communication", "duration": "25 min", "quiz": true },
+        { "id": "lesson4", "title": "Writing Professional Memos and Reports", "duration": "22 min", "quiz": true }
+      ]
+    },
+    {
+      "id": "module4",
+      "title": "PDF Skills",
+      "locked": true,
+      "lessons": [
+        { "id": "lesson1", "title": "Working with PDFs in the Workplace", "duration": "18 min", "quiz": true },
+        { "id": "lesson2", "title": "Converting and Combining PDFs", "duration": "20 min", "quiz": true },
+        { "id": "lesson3", "title": "Using Free Online PDF Tools", "duration": "15 min", "quiz": true }
+      ]
+    },
+    {
+      "id": "module5",
+      "title": "Excel Foundations",
+      "locked": true,
+      "lessons": [
+        { "id": "lesson1", "title": "Tracking Business Expenses", "duration": "22 min", "quiz": true },
+        { "id": "lesson2", "title": "Creating a Simple Inventory Sheet", "duration": "20 min", "quiz": true },
+        { "id": "lesson3", "title": "Creating Charts and Visual Reports", "duration": "20 min", "quiz": true }
+      ]
+    },
+    {
+      "id": "module6",
+      "title": "Excel Functions",
+      "locked": true,
+      "lessons": [
+        { "id": "lesson1", "title": "Calculating Monthly Totals with SUM", "duration": "20 min", "quiz": true },
+        { "id": "lesson2", "title": "Using AVERAGE for Performance Reports", "duration": "18 min", "quiz": true },
+        { "id": "lesson3", "title": "Payroll and Tax Calculations", "duration": "25 min", "quiz": true },
+        { "id": "lesson4", "title": "Using IF and Logical Functions", "duration": "22 min", "quiz": true }
+      ]
+    },
+    {
+      "id": "module7",
+      "title": "Workplace Projects",
+      "locked": true,
+      "lessons": [
+        { "id": "lesson1", "title": "Preparing a Business Budget", "duration": "28 min", "quiz": true },
+        { "id": "lesson2", "title": "Creating a Professional Invoice", "duration": "25 min", "quiz": true },
+        { "id": "lesson3", "title": "Income and Expenditure Statements", "duration": "25 min", "quiz": true }
+      ]
+    },
+    {
+      "id": "module8",
+      "title": "Final Assessment",
+      "locked": true,
+      "lessons": [
+        { "id": "lesson1", "title": "Course Review and Final Quiz", "duration": "35 min", "quiz": true }
+      ]
+    }
+  ]
+}

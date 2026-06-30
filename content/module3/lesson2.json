@@ -1,0 +1,67 @@
+{
+  "title": "Building a Meeting Agenda",
+  "moduleTitle": "Microsoft Word Projects",
+  "description": "Create a structured meeting agenda that keeps discussions focused and produces actionable results.",
+  "objectives": [
+    "Structure a meeting agenda with time blocks",
+    "Add attendee names and action items",
+    "Use tables for clarity",
+    "Distribute the agenda before the meeting",
+    "Format the agenda professionally with borders and shading"
+  ],
+  "content": "<h2>Why Agendas Matter</h2><p>A meeting without an agenda is like a road trip without a map. People talk about random topics, decisions are delayed, and an hour disappears with no results. A good agenda sets expectations, respects everyone's time, and creates a record of what was planned.</p><h2>Essential Agenda Elements</h2><ol><li><strong>Title and Date:</strong> 'Weekly Team Meeting - March 20, 2024'</li><li><strong>Attendees:</strong> List who is expected to attend.</li><li><strong>Time Blocks:</strong> Assign a start and end time for each topic. For example, 'Budget Review (10:00 - 10:15)'.</li><li><strong>Topic Owner:</strong> Name the person responsible for leading each topic.</li><li><strong>Action Items:</strong> Leave space for notes about who will do what after the meeting.</li></ol><h2>Using Tables for Layout</h2><p>A table with columns for Time, Topic, Owner, and Notes keeps the agenda tidy and easy to scan. Use bold text for the topic titles and light shading for the header row. Keep the font simple and readable.</p><h2>Distribution</h2><p>Always send the agenda at least 24 hours before the meeting. Attach it as a PDF so it looks professional and cannot be accidentally edited. Name it clearly: <em>2024-03-20_TeamMeeting_Agenda.pdf</em>.</p><h2>Formatting Tips</h2><p>Use borders to separate sections. Apply shading to the header row. Set line spacing to 1.15 for readability. Use a professional font like Calibri or Arial. If the agenda is long, use a second page with a simpler header that matches the first page.</p>",
+  "downloads": [
+    {
+      "title": "Meeting Agenda Template",
+      "description": "Ready-to-use Word template with time blocks",
+      "url": "resources/templates/meeting-agenda.docx"
+    }
+  ],
+  "exercise": "Create a meeting agenda for a 'Project Kickoff' meeting on next Monday at 9:00 AM. Include three topics with time blocks, assign owners, and add an 'Action Items' section at the bottom. Use a table with borders and shading. Save as PDF and email it to yourself.",
+  "quiz": [
+    {
+      "question": "Why should you send a meeting agenda at least 24 hours in advance?",
+      "options": [
+        "So people can cancel",
+        "So attendees can prepare and come ready",
+        "It is a legal requirement",
+        "To fill their inbox"
+      ],
+      "correct": 1,
+      "explanation": "Advance notice allows attendees to prepare materials, research topics, and come ready to contribute."
+    },
+    {
+      "question": "What is the best way to keep an agenda easy to scan during a meeting?",
+      "options": [
+        "Use a long paragraph",
+        "Use a table with clear columns",
+        "Write it by hand",
+        "Use multiple fonts and colors"
+      ],
+      "correct": 1,
+      "explanation": "A table with columns for Time, Topic, and Owner makes the agenda easy to read and follow during the meeting."
+    },
+    {
+      "question": "Which format should you use when distributing a final agenda to attendees?",
+      "options": [
+        ".docx for editing",
+        ".pdf for a professional, uneditable copy",
+        ".txt for simplicity",
+        ".jpg for images"
+      ],
+      "correct": 1,
+      "explanation": "PDF preserves formatting and prevents accidental changes, making it ideal for distribution."
+    },
+    {
+      "question": "What should you include in the 'Action Items' section?",
+      "options": [
+        "The lunch menu",
+        "Who will do what after the meeting",
+        "The meeting room color",
+        "Personal phone numbers"
+      ],
+      "correct": 1,
+      "explanation": "Action items record who is responsible for each task after the meeting, ensuring accountability and follow-up."
+    }
+  ]
+}

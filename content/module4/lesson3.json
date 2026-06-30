@@ -1,0 +1,67 @@
+{
+  "title": "Using Free Online PDF Tools",
+  "moduleTitle": "PDF Skills",
+  "description": "Learn to use free online tools like ilovepdf.com and smallpdf.com for PDF conversion, editing, and management.",
+  "objectives": [
+    "Convert PDF to Word and back",
+    "Merge and split PDFs online",
+    "Compress PDFs for email",
+    "Convert images to PDF",
+    "Use OCR to make scanned PDFs editable"
+  ],
+  "content": "<h2>When You Don't Have Adobe Acrobat</h2><p>Not every workplace has expensive PDF software. Fortunately, many free online tools can handle common PDF tasks. Two reliable and popular options are <strong>ilovepdf.com</strong> and <strong>smallpdf.com</strong>. These tools work in your web browser and do not require installation.</p><h2>Common PDF Tasks</h2><table style='width:100%;border-collapse:collapse;border:1px solid var(--color-border);'><thead><tr style='background:var(--color-bg);'><th style='padding:10px;border:1px solid var(--color-border);'>Task</th><th style='padding:10px;border:1px solid var(--color-border);'>Tool Example</th><th style='padding:10px;border:1px solid var(--color-border);'>When to Use</th></tr></thead><tbody><tr><td style='padding:10px;border:1px solid var(--color-border);'>PDF to Word</td><td style='padding:10px;border:1px solid var(--color-border);'>ilovepdf.com PDF to Word</td><td style='padding:10px;border:1px solid var(--color-border);'>When you need to edit a scanned or locked PDF</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>Word to PDF</td><td style='padding:10px;border:1px solid var(--color-border);'>smallpdf.com Word to PDF</td><td style='padding:10px;border:1px solid var(--color-border);'>When you need a professional final copy</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>Merge PDFs</td><td style='padding:10px;border:1px solid var(--color-border);'>ilovepdf.com Merge</td><td style='padding:10px;border:1px solid var(--color-border);'>When combining multiple documents for submission</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>Split PDFs</td><td style='padding:10px;border:1px solid var(--color-border);'>smallpdf.com Split</td><td style='padding:10px;border:1px solid var(--color-border);'>When a file is too large or needs separate sections</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>Compress PDFs</td><td style='padding:10px;border:1px solid var(--color-border);'>ilovepdf.com Compress</td><td style='padding:10px;border:1px solid var(--color-border);'>When emailing a file over the size limit</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>OCR (Scan to Text)</td><td style='padding:10px;border:1px solid var(--color-border);'>smallpdf.com OCR</td><td style='padding:10px;border:1px solid var(--color-border);'>When you need to edit a scanned image PDF</td></tr></tbody></table><h2>Workplace Scenario</h2><p>A client emails you a scanned contract as a PDF. You need to change one paragraph. You do not have Adobe Acrobat. You go to ilovepdf.com, use the 'PDF to Word' tool, upload the file, download the editable Word document, make your changes, and then use 'Word to PDF' to convert it back. You now have a clean, updated PDF ready to send back to the client.</p><h2>Security Warning</h2><p>Free online tools are convenient, but be cautious with confidential documents. If the document contains sensitive information (salaries, contracts, personal data), use offline software or a paid service with privacy guarantees. For routine documents like public reports or templates, free tools are perfectly safe.</p>",
+  "downloads": [
+    {
+      "title": "PDF Tools Guide",
+      "description": "How to use ilovepdf.com and smallpdf.com",
+      "url": "resources/pdfs/pdf-tools-guide.pdf"
+    }
+  ],
+  "exercise": "Go to ilovepdf.com and explore the following tools: PDF to Word, Word to PDF, Merge PDF, and Compress PDF. Create a short Word document, convert it to PDF, then convert the PDF back to Word. Note how well the formatting is preserved. Merge two PDFs into one. Compress a PDF and compare the file size before and after. Write a one-paragraph summary of which tool you found most useful and why.",
+  "quiz": [
+    {
+      "question": "Which tool would you use to edit a scanned PDF that you cannot edit directly?",
+      "options": [
+        "PDF Merge",
+        "PDF to Word converter",
+        "PDF Compress",
+        "PDF Split"
+      ],
+      "correct": 1,
+      "explanation": "A PDF to Word converter creates an editable document from a scanned or locked PDF, allowing you to make changes."
+    },
+    {
+      "question": "When should you compress a PDF?",
+      "options": [
+        "When you want to delete it",
+        "When the file is too large to email or upload",
+        "When you want to add more pages",
+        "When you want to change the font"
+      ],
+      "correct": 1,
+      "explanation": "Compression reduces file size, making it easier to share via email or upload to websites with size limits."
+    },
+    {
+      "question": "Why should you be careful with confidential documents on free online tools?",
+      "options": [
+        "They are always broken",
+        "Privacy and security of sensitive data cannot be guaranteed",
+        "They cost too much money",
+        "They only work on weekends"
+      ],
+      "correct": 1,
+      "explanation": "Free online tools upload your file to external servers. For sensitive documents, use offline software or trusted paid services with privacy guarantees."
+    },
+    {
+      "question": "Which ilovepdf.com tool would you use to combine a cover letter and a CV into one file?",
+      "options": [
+        "PDF to Word",
+        "Merge PDF",
+        "Compress PDF",
+        "OCR PDF"
+      ],
+      "correct": 1,
+      "explanation": "The Merge PDF tool combines multiple PDFs into a single document, which is ideal for combining a cover letter and CV."
+    }
+  ]
+}

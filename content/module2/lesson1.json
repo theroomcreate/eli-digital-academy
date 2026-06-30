@@ -1,0 +1,67 @@
+{
+  "title": "Creating Your First Business Document",
+  "moduleTitle": "Microsoft Word Basics",
+  "description": "Build a professional document from scratch using Microsoft Word, applying real workplace formatting standards including page setup, margins, and orientation.",
+  "objectives": [
+    "Create a new Word document",
+    "Apply professional fonts and spacing",
+    "Use headers and page numbers",
+    "Save and export correctly",
+    "Set page margins, orientation, and gutter margins"
+  ],
+  "content": "<h2>Starting a Professional Document</h2><p>Every workplace document starts with a purpose. Whether it's a letter, memo, or report, the first impression comes from how the document looks. In this lesson, you will create a business letter from scratch.</p><h2>Step-by-Step</h2><ol><li><strong>Open Word</strong> and select a blank document.</li><li><strong>Set the font</strong> to a professional choice like Calibri, Arial, or Times New Roman, size 11 or 12.</li><li><strong>Set margins</strong> to Normal (1 inch on all sides) for most business documents. For documents that will be bound, use a gutter margin to add extra space on the side or top margin so text isn't obscured by the binding.</li><li><strong>Set orientation</strong> to Portrait for letters and reports, Landscape for wide tables or charts.</li><li><strong>Add a header</strong> with your company name and contact information. Use Insert > Header.</li><li><strong>Add page numbers</strong> using Insert > Page Number, usually at the bottom center or right.</li><li><strong>Type your content</strong> with clear paragraphs. Leave a blank line between paragraphs.</li><li><strong>Save</strong> as a .docx with a proper name. Then export as PDF for sending.</li></ol><h2>Page Setup and Margins</h2><p>Page setup controls how your document fits on the page. Go to <strong>Layout > Margins</strong> to choose preset margins or create custom ones. A gutter margin is especially important for reports that will be printed and bound. Without it, text near the binding can be difficult to read.</p><h2>Workplace Scenario</h2><p>Your manager asks you to write a formal letter to a client confirming a meeting. You open Word, set the font to Calibri 11, add your company letterhead in the header, set 1-inch margins with a 0.5-inch gutter for binding, and type the letter with proper spacing. You save it as <em>2024-03-20_MeetingConfirmation_BrightTech.docx</em> and export a PDF to email.</p>",
+  "downloads": [
+    {
+      "title": "Business Letter Template",
+      "description": "A clean Word template for formal letters",
+      "url": "resources/templates/business-letter.docx"
+    }
+  ],
+  "exercise": "Create a formal business letter in Word. Address it to a fictional client, confirm a meeting for next Tuesday at 10:00 AM, and include your contact details. Add a header with a fictional company name and page numbers. Set margins to 1 inch on all sides with a 0.5-inch gutter margin. Set the page orientation to Portrait. Save as .docx and export as PDF.",
+  "quiz": [
+    {
+      "question": "Which font size is most common for professional business documents?",
+      "options": [
+        "8",
+        "11 or 12",
+        "16",
+        "24"
+      ],
+      "correct": 1,
+      "explanation": "Size 11 or 12 is standard for readability and professionalism in business documents."
+    },
+    {
+      "question": "Where do you add page numbers in Word?",
+      "options": [
+        "File > Save",
+        "Insert > Page Number",
+        "Home > Bold",
+        "View > Zoom"
+      ],
+      "correct": 1,
+      "explanation": "The Insert tab contains the Page Number option for adding automatic numbering."
+    },
+    {
+      "question": "What is a gutter margin used for?",
+      "options": [
+        "To add color to the page",
+        "To add extra space for binding so text isn't obscured",
+        "To insert a header",
+        "To change the font size"
+      ],
+      "correct": 1,
+      "explanation": "A gutter margin adds extra space on the side or top of a page so that text is not hidden by the binding when printed."
+    },
+    {
+      "question": "When should you use Landscape orientation?",
+      "options": [
+        "For all business letters",
+        "For wide tables or charts that do not fit in Portrait",
+        "For memos only",
+        "Never, Portrait is always better"
+      ],
+      "correct": 1,
+      "explanation": "Landscape orientation is useful for wide tables, charts, or documents that need more horizontal space."
+    }
+  ]
+}

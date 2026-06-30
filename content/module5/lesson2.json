@@ -1,0 +1,67 @@
+{
+  "title": "Creating a Simple Inventory Sheet",
+  "moduleTitle": "Excel Foundations",
+  "description": "Track stock levels and reorder needs using a clean Excel inventory spreadsheet.",
+  "objectives": [
+    "Design an inventory sheet with Item, Quantity, and Reorder Level",
+    "Use conditional formatting to highlight low stock",
+    "Sort and filter inventory items",
+    "Print an inventory report",
+    "Format the sheet for professional presentation"
+  ],
+  "content": "<h2>Inventory Management</h2><p>Every office needs to track supplies: paper, toner, pens, notebooks, and more. Running out of printer paper before a big client meeting is a problem that a simple Excel inventory sheet can prevent. This lesson teaches you to build a tracker that warns you when stock is low.</p><h2>Sheet Structure</h2><p>Use columns for: Item Name, Current Quantity, Reorder Level, Supplier, and Last Ordered Date. The Reorder Level is the minimum number you want to have on hand. When Current Quantity drops below Reorder Level, it is time to order more.</p><h2>Conditional Formatting</h2><p>Select the Current Quantity column. Go to Home > Conditional Formatting > Highlight Cells Rules > Less Than. Enter the Reorder Level column as the reference, or set a fixed number. Choose a red fill color. Now low stock items appear automatically in red, making them impossible to miss.</p><h2>Sorting and Filtering</h2><p>Use the filter arrows on the header row to show only items that need reordering. Sort by Supplier to group items from the same vendor and place one combined order. This saves time and often reduces shipping costs.</p><h2>Inventory Table Example</h2><table style='width:100%;border-collapse:collapse;border:1px solid var(--color-border);'><thead><tr style='background:var(--color-bg);'><th style='padding:10px;border:1px solid var(--color-border);'>Item</th><th style='padding:10px;border:1px solid var(--color-border);'>Current Qty</th><th style='padding:10px;border:1px solid var(--color-border);'>Reorder Level</th><th style='padding:10px;border:1px solid var(--color-border);'>Status</th><th style='padding:10px;border:1px solid var(--color-border);'>Supplier</th></tr></thead><tbody><tr><td style='padding:10px;border:1px solid var(--color-border);'>A4 Paper (reams)</td><td style='padding:10px;border:1px solid var(--color-border);'>50</td><td style='padding:10px;border:1px solid var(--color-border);'>20</td><td style='padding:10px;border:1px solid var(--color-border);'>OK</td><td style='padding:10px;border:1px solid var(--color-border);'>PaperMills Ltd</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>Printer Toner</td><td style='padding:10px;border:1px solid var(--color-border);'>3</td><td style='padding:10px;border:1px solid var(--color-border);'>5</td><td style='padding:10px;border:1px solid var(--color-border);'>LOW</td><td style='padding:10px;border:1px solid var(--color-border);'>TechSupplies Inc</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>Pens (box)</td><td style='padding:10px;border:1px solid var(--color-border);'>12</td><td style='padding:10px;border:1px solid var(--color-border);'>10</td><td style='padding:10px;border:1px solid var(--color-border);'>OK</td><td style='padding:10px;border:1px solid var(--color-border);'>Office Depot</td></tr></tbody></table>",
+  "downloads": [
+    {
+      "title": "Inventory Sheet Template",
+      "description": "Excel inventory tracker with conditional formatting",
+      "url": "resources/templates/inventory.xlsx"
+    }
+  ],
+  "exercise": "Create an inventory sheet with 15 office supplies. Set a Reorder Level for each item. Apply conditional formatting so that items below their reorder level turn red. Filter to show only red items. Sort by Supplier. Save the file.",
+  "quiz": [
+    {
+      "question": "What is the purpose of a Reorder Level in an inventory sheet?",
+      "options": [
+        "To show the maximum stock",
+        "To indicate when to order more of an item",
+        "To calculate profit",
+        "To delete old items"
+      ],
+      "correct": 1,
+      "explanation": "The Reorder Level is a threshold. When stock drops below it, you know it is time to place a new order."
+    },
+    {
+      "question": "Which Excel feature automatically highlights low stock in red?",
+      "options": [
+        "Sort",
+        "Filter",
+        "Conditional Formatting",
+        "AutoSum"
+      ],
+      "correct": 2,
+      "explanation": "Conditional Formatting applies visual rules (like red fill) to cells that meet specific criteria, such as being below a certain number."
+    },
+    {
+      "question": "Why might you sort inventory by Supplier?",
+      "options": [
+        "To delete suppliers",
+        "To group items and place combined orders",
+        "To change prices",
+        "To hide items"
+      ],
+      "correct": 1,
+      "explanation": "Grouping by supplier lets you see all items from one vendor, making it easier to place a single combined order."
+    },
+    {
+      "question": "How do you quickly see only items that need reordering?",
+      "options": [
+        "Delete all other rows",
+        "Use the Filter to show only items below reorder level",
+        "Change the font color manually",
+        "Hide the worksheet"
+      ],
+      "correct": 1,
+      "explanation": "Filtering allows you to display only the rows that meet your criteria, such as items needing to be reordered."
+    }
+  ]
+}

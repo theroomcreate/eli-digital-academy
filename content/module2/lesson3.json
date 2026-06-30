@@ -1,0 +1,67 @@
+{
+  "title": "Find, Replace, and Spell Check",
+  "moduleTitle": "Microsoft Word Basics",
+  "description": "Learn to use Find & Replace, Spell Check, Grammar Check, and the Thesaurus to produce error-free professional documents.",
+  "objectives": [
+    "Use Find & Replace to update text across a document",
+    "Check spelling and grammar automatically",
+    "Use the Thesaurus to improve vocabulary",
+    "Apply AutoCorrect for common typing mistakes",
+    "Understand the importance of proofreading before sending"
+  ],
+  "content": "<h2>Why Proofreading Matters at Work</h2><p>A single spelling error in a client proposal can make your company look unprofessional. A wrong date in a meeting memo can cause confusion. As an administrative professional, you are often the last person to review a document before it goes out. Knowing how to use Word's proofreading tools saves time and protects your reputation.</p><h2>Find and Replace</h2><p>Find and Replace is one of the most powerful tools in Word. It lets you locate a word or phrase and replace it with another throughout the entire document. This is essential when a client's name changes, a product is renamed, or a date is updated.</p><p><strong>How to use Find & Replace:</strong></p><ol><li>Press <strong>Ctrl + H</strong> (or go to Home > Replace).</li><li>In the 'Find what' box, type the word or phrase to find.</li><li>In the 'Replace with' box, type the new word or phrase.</li><li>Click <strong>Replace All</strong> to change every occurrence, or <strong>Replace</strong> to change one at a time.</li></ol><h2>Spell Check and Grammar Check</h2><p>Word automatically underlines misspelled words in red and grammar issues in blue. To run a full check, press <strong>F7</strong> or go to <strong>Review > Spelling & Grammar</strong>. For each error, Word suggests corrections. You can choose to Change, Ignore, or Add the word to your dictionary.</p><h2>The Thesaurus</h2><p>The Thesaurus helps you find words with similar or opposite meanings. Highlight a word, go to <strong>Review > Thesaurus</strong>, and choose a synonym. This is useful when you want to avoid repeating the same word in a report or letter.</p><h2>AutoCorrect and AutoText</h2><p>AutoCorrect automatically fixes common misspellings as you type. For example, 'teh' becomes 'the'. AutoText lets you insert pre-defined text quickly. For example, you can create an AutoText entry for your company address so it appears whenever you type 'addr'.</p><h2>Workplace Scenario</h2><p>You have prepared a 20-page report for the board meeting. Your manager tells you that the client name 'BrightTech' has been changed to 'BrightTech Solutions' in all documents. Instead of reading every page, you open Find & Replace, search for 'BrightTech', replace with 'BrightTech Solutions', and click Replace All. The entire document is updated in seconds. Then you press F7 to run a final spell check before saving.</p>",
+  "downloads": [
+    {
+      "title": "Proofreading Checklist",
+      "description": "A checklist for reviewing documents before sending",
+      "url": "resources/pdfs/proofreading-checklist.pdf"
+    }
+  ],
+  "exercise": "Create a Word document with at least 5 paragraphs. Include the word 'costumer' (misspelled) at least 3 times. Use Find & Replace to change 'costumer' to 'customer' throughout the document. Use the Thesaurus to replace the word 'good' with a more professional synonym. Run Spell Check (F7) and fix any remaining errors. Save the corrected document as Proofreading_Practice.docx.",
+  "quiz": [
+    {
+      "question": "What is the keyboard shortcut for Find & Replace in Word?",
+      "options": [
+        "Ctrl + F",
+        "Ctrl + H",
+        "Ctrl + S",
+        "Ctrl + P"
+      ],
+      "correct": 1,
+      "explanation": "Ctrl + H opens the Find and Replace dialog box, while Ctrl + F opens Find only."
+    },
+    {
+      "question": "Which color does Word use to underline a misspelled word?",
+      "options": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+      ],
+      "correct": 2,
+      "explanation": "Word underlines misspelled words with a red squiggly line. Grammar issues are underlined in blue."
+    },
+    {
+      "question": "When should you use 'Replace All' instead of 'Replace'?",
+      "options": [
+        "When you want to review each change individually",
+        "When you are confident every occurrence should be changed",
+        "When the document is very short",
+        "Never, always use Replace"
+      ],
+      "correct": 1,
+      "explanation": "Replace All changes every occurrence at once. Use it only when you are sure every instance should be replaced."
+    },
+    {
+      "question": "What is the purpose of AutoCorrect?",
+      "options": [
+        "To check spelling at the end of a document",
+        "To automatically fix common misspellings as you type",
+        "To replace images with text",
+        "To create page borders"
+      ],
+      "correct": 1,
+      "explanation": "AutoCorrect fixes common typing errors automatically, like changing 'teh' to 'the' as you type."
+    }
+  ]
+}

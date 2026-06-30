@@ -1,0 +1,55 @@
+{
+  "title": "Using AVERAGE for Performance Reports",
+  "moduleTitle": "Excel Functions",
+  "description": "Calculate averages for team performance, customer satisfaction scores, and monthly metrics using Excel.",
+  "objectives": [
+    "Use the AVERAGE function",
+    "Calculate averages with conditions using AVERAGEIF",
+    "Handle empty cells in average calculations",
+    "Present averages in a clear report format"
+  ],
+  "content": "<h2>Averages in the Workplace</h2><p>Averages are one of the most common statistics in business. Average sales per month, average customer satisfaction score, average response time, average project cost. Excel makes it easy to calculate these from raw data. But there is a catch: if you include empty cells or zeroes incorrectly, your average can be misleading.</p><h2>Using AVERAGE</h2><p>The formula is simple: <code>=AVERAGE(B2:B20)</code> calculates the average of all numbers in that range. Empty cells are ignored by default, which is usually what you want. Cells with a zero are included, which is correct for data like 'no sales today.'</p><h2>AVERAGEIF</h2><p>Like SUMIF, AVERAGEIF lets you calculate an average for only rows that meet a condition. For example, <code>=AVERAGEIF(B2:B50, 'Department A', C2:C50)</code> calculates the average score only for Department A. This is essential when you have mixed data in one sheet and need separate reports for each department or team.</p><h2>Presenting Averages</h2><p>Averages are most useful when shown alongside the total count and the range. For example: 'Average response time: 4.2 hours (based on 34 tickets, range 1-12 hours).' This gives context and prevents the average from hiding important extremes. Always round averages to one or two decimal places for readability.</p>",
+  "downloads": [
+    {
+      "title": "Performance Report Template",
+      "description": "Excel template with AVERAGE and AVERAGEIF examples",
+      "url": "resources/templates/performance-report.xlsx"
+    }
+  ],
+  "exercise": "Create an Excel sheet with 20 rows of employee performance scores. Add columns for Name, Department, and Score. Calculate the overall average score. Then calculate the average for each department using AVERAGEIF. Create a simple table showing Department and Average Score.",
+  "quiz": [
+    {
+      "question": "What does the AVERAGE function do with empty cells?",
+      "options": [
+        "Treats them as zero",
+        "Ignores them",
+        "Returns an error",
+        "Deletes them"
+      ],
+      "correct": 1,
+      "explanation": "AVERAGE ignores empty cells by default, which is usually correct because an empty cell means there is no data, not a zero value."
+    },
+    {
+      "question": "When would you use AVERAGEIF instead of AVERAGE?",
+      "options": [
+        "When you want to include all numbers",
+        "When you want the average of only certain rows that match a condition",
+        "When you want the highest number",
+        "When you want to count cells"
+      ],
+      "correct": 1,
+      "explanation": "AVERAGEIF calculates the average only for cells that meet a specific condition, like belonging to a certain department."
+    },
+    {
+      "question": "Why should you show the count and range alongside an average?",
+      "options": [
+        "To make the report longer",
+        "To provide context and prevent the average from hiding extremes",
+        "Because it is required by Excel",
+        "To confuse the reader"
+      ],
+      "correct": 1,
+      "explanation": "An average alone can hide important variations. Showing the count and range gives a fuller picture of the data."
+    }
+  ]
+}

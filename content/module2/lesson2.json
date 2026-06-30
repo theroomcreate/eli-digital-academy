@@ -1,0 +1,68 @@
+{
+  "title": "Formatting for Professional Communication",
+  "moduleTitle": "Microsoft Word Basics",
+  "description": "Apply advanced formatting techniques to make documents look polished, organized, and easy to read.",
+  "objectives": [
+    "Use styles for consistent headings",
+    "Create bulleted and numbered lists",
+    "Apply alignment and line spacing",
+    "Use tables for structured information",
+    "Apply text borders, shading, and highlighting",
+    "Use drop caps for visual emphasis"
+  ],
+  "content": "<h2>The Power of Styles</h2><p>Styles in Word are pre-defined sets of formatting that you can apply to headings, body text, and titles. Instead of manually changing every heading to bold and blue, you apply the 'Heading 1' style and all headings look the same. This is essential for long documents and reports.</p><h2>Lists and Alignment</h2><p>Bullet points are perfect for lists where order does not matter, like skills or features. Numbered lists are better for steps, instructions, or rankings. Use the alignment buttons (left, center, right, justify) carefully. Most business documents are left-aligned or justified. Center alignment is for titles and invitations only.</p><h2>Text Borders, Shading, and Highlighting</h2><p>Borders and shading help important information stand out. To apply a border: select text, go to <strong>Home > Borders</strong>, and choose a border style. To add shading: select text, go to <strong>Home > Shading</strong>, and choose a color. To highlight text: use the Text Highlighter tool. These features are useful for marking key sections in reports, memos, and newsletters.</p><h2>Drop Caps</h2><p>A drop cap is a large character at the beginning of a paragraph that occupies more than one line. It is often used in newsletters and formal reports for visual appeal. To create a drop cap: highlight the paragraph, go to <strong>Insert > Drop Cap</strong>, and choose 'Dropped' or 'In Margin.' Specify the number of lines it should occupy.</p><h2>Line and Paragraph Spacing</h2><p>Line spacing controls the space between lines of text. Common settings are 1.0 (single), 1.5, and 2.0 (double). Paragraph spacing controls the space before and after paragraphs. For business letters, 1.15 or 1.5 line spacing is standard. For academic reports, double spacing may be required.</p>",
+  "downloads": [
+    {
+      "title": "Formatting Best Practices Guide",
+      "description": "Quick reference for professional Word formatting",
+      "url": "resources/pdfs/word-formatting.pdf"
+    }
+  ],
+  "exercise": "Create a one-page document with a title, three headings using Word styles, a bulleted list of five skills, a numbered list of three steps, and a simple table with three columns and four rows. Apply a 3-point border and orange shading to the title. Add a drop cap to the first paragraph. Set line spacing to 1.5. Save the document with proper naming.",
+  "quiz": [
+    {
+      "question": "When should you use a numbered list instead of bullets?",
+      "options": [
+        "When the list is long",
+        "When the order matters, like steps or rankings",
+        "When you have colors",
+        "When the list is short"
+      ],
+      "correct": 1,
+      "explanation": "Numbered lists are best for sequential items, instructions, or anything where order is important."
+    },
+    {
+      "question": "What is the main benefit of using Word Styles?",
+      "options": [
+        "It makes the document colorful",
+        "It ensures consistent formatting across the document",
+        "It adds page numbers automatically",
+        "It deletes spelling errors"
+      ],
+      "correct": 1,
+      "explanation": "Styles ensure all headings and text of the same type look identical, which is professional and efficient."
+    },
+    {
+      "question": "Which alignment is best for the body text of a business report?",
+      "options": [
+        "Center",
+        "Right",
+        "Left or Justified",
+        "Diagonal"
+      ],
+      "correct": 2,
+      "explanation": "Left-aligned or justified text is easiest to read in long documents. Center alignment is for titles and headings only."
+    },
+    {
+      "question": "What is a drop cap used for?",
+      "options": [
+        "To delete a paragraph",
+        "To add a large decorative character at the start of a paragraph",
+        "To change the page color",
+        "To insert a page break"
+      ],
+      "correct": 1,
+      "explanation": "A drop cap is a large character at the beginning of a paragraph that spans multiple lines, often used for visual emphasis in newsletters and reports."
+    }
+  ]
+}

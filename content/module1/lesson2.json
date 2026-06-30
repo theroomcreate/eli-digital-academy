@@ -1,0 +1,66 @@
+{
+  "title": "File Types Explained",
+  "moduleTitle": "Computer Foundations",
+  "description": "Understand the most common file types used in the workplace so you always choose the right format for the task.",
+  "objectives": [
+    "Identify common file types and their uses",
+    "Know when to use Word, PDF, Excel, or image formats",
+    "Understand file compatibility between different software",
+    "Recognize Publisher and Word Art formats"
+  ],
+  "content": "<h2>Why File Types Matter</h2><p>Not all files are the same. A file type determines what program opens it, how it looks, and whether others can edit it. In the workplace, using the wrong file type can cause confusion, formatting errors, or security risks.</p><h2>Common Workplace File Types</h2><table style='width:100%;border-collapse:collapse;margin:16px 0;border:1px solid var(--color-border);'><thead><tr style='background:var(--color-bg);'><th style='text-align:left;padding:10px;border:1px solid var(--color-border);'>File Type</th><th style='text-align:left;padding:10px;border:1px solid var(--color-border);'>Best For</th><th style='text-align:left;padding:10px;border:1px solid var(--color-border);'>Notes</th></tr></thead><tbody><tr><td style='padding:10px;border:1px solid var(--color-border);'>.docx</td><td style='padding:10px;border:1px solid var(--color-border);'>Editable documents, letters, reports</td><td style='padding:10px;border:1px solid var(--color-border);'>Opens in Word. Can be edited.</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>.pdf</td><td style='padding:10px;border:1px solid var(--color-border);'>Final documents, forms, invoices</td><td style='padding:10px;border:1px solid var(--color-border);'>Looks the same on every device. Harder to edit.</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>.xlsx</td><td style='padding:10px;border:1px solid var(--color-border);'>Budgets, data, calculations</td><td style='padding:10px;border:1px solid var(--color-border);'>Opens in Excel. Supports formulas.</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>.jpg / .png</td><td style='padding:10px;border:1px solid var(--color-border);'>Images, logos, screenshots</td><td style='padding:10px;border:1px solid var(--color-border);'>PNG is better for text/screenshots.</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>.zip</td><td style='padding:10px;border:1px solid var(--color-border);'>Compressing multiple files</td><td style='padding:10px;border:1px solid var(--color-border);'>Useful for sending large attachments.</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>.pub</td><td style='padding:10px;border:1px solid var(--color-border);'>Brochures, flyers, newsletters</td><td style='padding:10px;border:1px solid var(--color-border);'>Opens in Microsoft Publisher. For desktop publishing.</td></tr></tbody></table><h2>Workplace Scenario</h2><p>You need to send a contract to a client. You wrote it in Word. Should you send the .docx file or a PDF? The correct answer is <strong>PDF</strong>. A PDF preserves your formatting exactly and prevents the client from accidentally changing the terms. If you need feedback on a draft, send the .docx. If it's final, send a PDF.</p><h2>Word Art and Publisher Files</h2><p>Microsoft Publisher (.pub) is used for creating brochures, newsletters, and business cards. Word Art is a feature inside Word and Publisher that turns text into decorative graphics. In the workplace, you might use Publisher to create a company newsletter or a flyer for an event. These files should usually be exported to PDF before sharing with people who do not have Publisher installed.</p>",
+  "downloads": [
+    {
+      "title": "File Types Quick Reference",
+      "description": "Printable chart of common file types",
+      "url": "resources/pdfs/file-types-guide.pdf"
+    }
+  ],
+  "exercise": "Create a new folder on your computer named File_Types_Practice. Inside it, create one example of each type: a Word document (.docx), a text file (.txt), and rename an image file to use .png extension. Write a sentence inside each explaining what it is best used for. Then create a simple table in Word listing 5 file types, their extensions, and when to use them.",
+  "quiz": [
+    {
+      "question": "You are sending a final invoice to a client. Which file type is best?",
+      "options": [
+        ".docx",
+        ".pdf",
+        ".xlsx",
+        ".txt"
+      ],
+      "correct": 1,
+      "explanation": "PDF preserves formatting and prevents accidental edits, making it ideal for final documents like invoices."
+    },
+    {
+      "question": "Which file type supports formulas and calculations?",
+      "options": [
+        ".docx",
+        ".pdf",
+        ".xlsx",
+        ".jpg"
+      ],
+      "correct": 2,
+      "explanation": "Excel files (.xlsx) are designed for data, calculations, and formulas."
+    },
+    {
+      "question": "Why might you send a .docx instead of a PDF?",
+      "options": [
+        "The file is smaller",
+        "The recipient needs to edit the document",
+        "PDF is always better",
+        "Never, Word is always better"
+      ],
+      "correct": 1,
+      "explanation": "When collaboration and editing are needed, a Word document is the better choice."
+    },
+    {
+      "question": "Which software is best for creating a company newsletter or flyer?",
+      "options": [
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Microsoft Publisher",
+        "Microsoft Access"
+      ],
+      "correct": 2,
+      "explanation": "Microsoft Publisher is designed for desktop publishing tasks like brochures, newsletters, and flyers."
+    }
+  ]
+}

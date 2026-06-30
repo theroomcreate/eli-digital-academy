@@ -1,0 +1,68 @@
+{
+  "title": "Working with Tables in Word",
+  "moduleTitle": "Microsoft Word Basics",
+  "description": "Create, format, and manage tables in Word for schedules, reports, and structured data presentation.",
+  "objectives": [
+    "Insert and format tables",
+    "Merge and split cells",
+    "Add borders and shading to tables",
+    "Sort data in a table",
+    "Use simple formulas in table cells",
+    "Create a class schedule or meeting timetable"
+  ],
+  "content": "<h2>Why Tables Matter in Word</h2><p>Tables are not just for Excel. In Word, tables help you present structured information like meeting schedules, staff directories, student registrations, and product catalogs. A well-formatted table makes information easy to scan and understand.</p><h2>Creating a Table</h2><p>Go to <strong>Insert > Table</strong> and choose the number of rows and columns. You can also draw a table manually or insert a pre-formatted table from Quick Tables.</p><h2>Merging and Splitting Cells</h2><p>To merge cells (combine two or more cells into one): select the cells, right-click, and choose <strong>Merge Cells</strong>. This is useful for creating a title row that spans all columns. To split a cell into multiple cells: right-click the cell and choose <strong>Split Cells</strong>.</p><h2>Sorting Table Data</h2><p>Word can sort table data alphabetically or numerically. Select the table, go to <strong>Layout > Sort</strong>, choose the column to sort by, and select Ascending or Descending. This is useful for sorting names, dates, or scores.</p><h2>Formulas in Word Tables</h2><p>Word tables can use simple formulas. Click in a cell, go to <strong>Layout > Formula</strong>, and type a formula like <code>=SUM(ABOVE)</code> or <code>=AVERAGE(LEFT)</code>. This is handy for simple calculations in a report or invoice.</p><h2>Workplace Scenario</h2><p>Your manager asks you to create a meeting timetable for the next board meeting. You insert a 7-row, 3-column table. You merge the top row and type 'Board Meeting Schedule' as the title. You fill in the days and times, sort the entries by time, and apply a professional border style. The table is inserted into a memo and sent to all staff.</p><h2>Example Table: Meeting Schedule</h2><table style='width:100%;border-collapse:collapse;border:1px solid var(--color-border);'><tr style='background:var(--color-bg);'><th style='padding:10px;border:1px solid var(--color-border);'>Time</th><th style='padding:10px;border:1px solid var(--color-border);'>Topic</th><th style='padding:10px;border:1px solid var(--color-border);'>Owner</th></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>09:00 - 09:30</td><td style='padding:10px;border:1px solid var(--color-border);'>Welcome and Introduction</td><td style='padding:10px;border:1px solid var(--color-border);'>Chairperson</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>09:30 - 10:30</td><td style='padding:10px;border:1px solid var(--color-border);'>Budget Review</td><td style='padding:10px;border:1px solid var(--color-border);'>Finance Manager</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>10:30 - 10:45</td><td style='padding:10px;border:1px solid var(--color-border);'>Tea Break</td><td style='padding:10px;border:1px solid var(--color-border);'>-</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>10:45 - 12:00</td><td style='padding:10px;border:1px solid var(--color-border);'>Project Updates</td><td style='padding:10px;border:1px solid var(--color-border);'>Project Lead</td></tr></table>",
+  "downloads": [
+    {
+      "title": "Meeting Schedule Template",
+      "description": "A Word table template for meeting schedules",
+      "url": "resources/templates/meeting-schedule.docx"
+    }
+  ],
+  "exercise": "Create a table in Word with 5 rows and 4 columns. Add headers: Name, Department, Phone, Email. Fill in 4 rows of fictional staff data. Merge the top row and add a title 'Staff Directory'. Apply a border style and shading to the header row. Sort the table by Department in alphabetical order. Save as Staff_Directory.docx.",
+  "quiz": [
+    {
+      "question": "How do you merge two cells in a Word table?",
+      "options": [
+        "Press Delete",
+        "Select the cells, right-click, and choose Merge Cells",
+        "Use Ctrl + C",
+        "Go to File > Save"
+      ],
+      "correct": 1,
+      "explanation": "Select the cells you want to merge, right-click, and choose Merge Cells from the menu."
+    },
+    {
+      "question": "Where do you find the Sort option for a table in Word?",
+      "options": [
+        "Home tab",
+        "Insert tab",
+        "Table Layout tab",
+        "View tab"
+      ],
+      "correct": 2,
+      "explanation": "The Sort option is found in the Table Layout (or Layout) tab when you have a table selected."
+    },
+    {
+      "question": "Which formula would you use to add all numbers in the cells above?",
+      "options": [
+        "=SUM(LEFT)",
+        "=SUM(ABOVE)",
+        "=AVERAGE(ABOVE)",
+        "=TOTAL()"
+      ],
+      "correct": 1,
+      "explanation": "=SUM(ABOVE) adds all numbers in the cells directly above the current cell in a Word table."
+    },
+    {
+      "question": "Why would you merge cells in a table?",
+      "options": [
+        "To delete data",
+        "To create a title row that spans all columns",
+        "To sort the table",
+        "To add a new row"
+      ],
+      "correct": 1,
+      "explanation": "Merging cells is commonly used to create a single title cell that spans across all columns at the top of a table."
+    }
+  ]
+}

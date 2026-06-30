@@ -1,0 +1,67 @@
+{
+  "title": "Preparing a Business Budget",
+  "moduleTitle": "Workplace Projects",
+  "description": "Build a complete monthly business budget in Excel that includes income, expenses, and a profit summary with percentage calculations.",
+  "objectives": [
+    "Structure a budget with Income and Expenses sections",
+    "Use formulas to calculate totals and profit",
+    "Apply formatting to make the budget readable",
+    "Present the budget in a printable format",
+    "Calculate percentages for expense analysis"
+  ],
+  "content": "<h2>Budgets Are Essential</h2><p>Every business, from a one-person consultancy to a multinational corporation, needs a budget. A budget is a plan for how money will be earned and spent. For an administrative professional, preparing and updating the budget is a common and important responsibility.</p><h2>Structure of a Business Budget</h2><p>A good budget has three main sections:</p><ol><li><strong>Income:</strong> List all expected income sources (sales, services, investments). Include a total income row with SUM.</li><li><strong>Expenses:</strong> List all expected costs (rent, salaries, utilities, supplies, marketing). Include a total expenses row with SUM.</li><li><strong>Profit/Loss:</strong> Subtract total expenses from total income. If the result is positive, it is profit. If negative, it is a loss.</li></ol><h2>Formatting for Clarity</h2><p>Use bold for section headers and totals. Use light borders to separate sections. Apply currency formatting to all money values. Add a subtle background color to the header row. Make the profit/loss row stand out with a stronger color or a top border.</p><h2>Using Percentages</h2><p>Percentage calculations help you see which expenses are the largest. For example, if rent is 80,000 and total income is 500,000, rent is 16% of income. Use the formula: <code>=Expense/Income</code> and format as percentage. This helps managers identify areas to cut costs.</p><h2>Workplace Scenario</h2><p>You are the administrative assistant at a small retail business. The owner asks you to prepare the monthly budget for the next quarter. You list all income sources (sales, after-sale services) and all expenses (rent, salaries, raw materials, water, electricity, miscellaneous). You calculate totals automatically with SUM. You find the profit by subtracting expenses from income. You calculate what percentage each expense is of total income. You format the budget professionally, print it, and present it at the board meeting. The owner uses your budget to decide whether to hire a new employee.</p>",
+  "downloads": [
+    {
+      "title": "Business Budget Template",
+      "description": "A complete Excel business budget with formulas",
+      "url": "resources/templates/business-budget.xlsx"
+    }
+  ],
+  "exercise": "Create a monthly business budget in Excel with at least four income sources and six expense categories. Use SUM formulas for totals. Calculate profit or loss. Add a 'Budgeted' and 'Actual' column for comparison. Format with currency, bold headers, and borders. Calculate the percentage of each expense relative to total income. Save as .xlsx and export as PDF.",
+  "quiz": [
+    {
+      "question": "What is the correct formula for calculating profit in a budget?",
+      "options": [
+        "Income + Expenses",
+        "Income - Expenses",
+        "Income × Expenses",
+        "Income / Expenses"
+      ],
+      "correct": 1,
+      "explanation": "Profit is calculated by subtracting total expenses from total income. A positive result is profit; negative is a loss."
+    },
+    {
+      "question": "Why should a budget include both 'Budgeted' and 'Actual' columns?",
+      "options": [
+        "To make it longer",
+        "To compare the plan with reality and spot problems early",
+        "Because Excel requires it",
+        "To confuse the accountant"
+      ],
+      "correct": 1,
+      "explanation": "Comparing budgeted vs actual numbers helps managers spot overspending or missed revenue early and make adjustments."
+    },
+    {
+      "question": "Which formatting should you apply to all money values in a budget?",
+      "options": [
+        "Bold",
+        "Italic",
+        "Currency",
+        "Date"
+      ],
+      "correct": 2,
+      "explanation": "Currency formatting displays values with a symbol and two decimal places, making the budget clear and professional."
+    },
+    {
+      "question": "How do you calculate what percentage rent is of total income?",
+      "options": [
+        "=Rent + Income",
+        "=Rent / Income",
+        "=Rent × Income",
+        "=Rent - Income"
+      ],
+      "correct": 1,
+      "explanation": "Dividing the expense by total income gives the proportion, which you can format as a percentage."
+    }
+  ]
+}

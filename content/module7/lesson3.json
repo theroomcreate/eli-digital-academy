@@ -1,0 +1,67 @@
+{
+  "title": "Income and Expenditure Statements",
+  "moduleTitle": "Workplace Projects",
+  "description": "Prepare a comprehensive income and expenditure statement that calculates gross profit, tax, and net profit using percentage formulas.",
+  "objectives": [
+    "Create a structured income and expenditure worksheet",
+    "Calculate income from sales and services",
+    "Calculate expenditure categories with percentages",
+    "Compute gross profit and net profit",
+    "Format the statement for board presentation"
+  ],
+  "content": "<h2>Income and Expenditure Statements</h2><p>An income and expenditure statement (also called a profit and loss statement) shows how much money a business earned and spent over a period. It is one of the most important financial documents in any organization. As an administrative professional, you may be asked to prepare this statement for monthly board meetings or annual audits.</p><h2>Structure of the Statement</h2><p>The statement has two main parts:</p><ol><li><strong>Income:</strong> Sales, after-sale services, and other revenue.</li><li><strong>Expenditure:</strong> Rent, salaries, raw materials, water and electricity, miscellaneous.</li></ol><p>After calculating total income and total expenditure, you subtract to find <strong>Gross Profit</strong> (or Loss). Then you calculate tax as a percentage of gross profit. Finally, you subtract tax to find <strong>Net Profit</strong>.</p><h2>6-Month Income and Expenditure Table</h2><table style='width:100%;border-collapse:collapse;border:1px solid var(--color-border);'><thead><tr style='background:var(--color-bg);'><th style='padding:10px;border:1px solid var(--color-border);'>Category</th><th style='padding:10px;border:1px solid var(--color-border);'>Jan</th><th style='padding:10px;border:1px solid var(--color-border);'>Feb</th><th style='padding:10px;border:1px solid var(--color-border);'>Mar</th><th style='padding:10px;border:1px solid var(--color-border);'>Apr</th><th style='padding:10px;border:1px solid var(--color-border);'>May</th><th style='padding:10px;border:1px solid var(--color-border);'>Jun</th></tr></thead><tbody><tr><td style='padding:10px;border:1px solid var(--color-border);'>Sales</td><td style='padding:10px;border:1px solid var(--color-border);'>990,000</td><td style='padding:10px;border:1px solid var(--color-border);'>880,000</td><td style='padding:10px;border:1px solid var(--color-border);'>910,000</td><td style='padding:10px;border:1px solid var(--color-border);'>890,000</td><td style='padding:10px;border:1px solid var(--color-border);'>780,000</td><td style='padding:10px;border:1px solid var(--color-border);'>900,000</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>After-Sale Services (50%)</td><td style='padding:10px;border:1px solid var(--color-border);'>495,000</td><td style='padding:10px;border:1px solid var(--color-border);'>440,000</td><td style='padding:10px;border:1px solid var(--color-border);'>455,000</td><td style='padding:10px;border:1px solid var(--color-border);'>445,000</td><td style='padding:10px;border:1px solid var(--color-border);'>390,000</td><td style='padding:10px;border:1px solid var(--color-border);'>450,000</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'><strong>Total Income</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>1,485,000</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>1,320,000</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>1,365,000</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>1,335,000</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>1,170,000</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>1,350,000</strong></td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>Rent (8%)</td><td style='padding:10px;border:1px solid var(--color-border);'>79,200</td><td style='padding:10px;border:1px solid var(--color-border);'>70,400</td><td style='padding:10px;border:1px solid var(--color-border);'>72,800</td><td style='padding:10px;border:1px solid var(--color-border);'>71,200</td><td style='padding:10px;border:1px solid var(--color-border);'>62,400</td><td style='padding:10px;border:1px solid var(--color-border);'>72,000</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>Salaries (10%)</td><td style='padding:10px;border:1px solid var(--color-border);'>99,000</td><td style='padding:10px;border:1px solid var(--color-border);'>88,000</td><td style='padding:10px;border:1px solid var(--color-border);'>91,000</td><td style='padding:10px;border:1px solid var(--color-border);'>89,000</td><td style='padding:10px;border:1px solid var(--color-border);'>78,000</td><td style='padding:10px;border:1px solid var(--color-border);'>90,000</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>Raw Materials (18%)</td><td style='padding:10px;border:1px solid var(--color-border);'>178,200</td><td style='padding:10px;border:1px solid var(--color-border);'>158,400</td><td style='padding:10px;border:1px solid var(--color-border);'>163,800</td><td style='padding:10px;border:1px solid var(--color-border);'>160,200</td><td style='padding:10px;border:1px solid var(--color-border);'>140,400</td><td style='padding:10px;border:1px solid var(--color-border);'>162,000</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>Water & Elec (8%)</td><td style='padding:10px;border:1px solid var(--color-border);'>79,200</td><td style='padding:10px;border:1px solid var(--color-border);'>70,400</td><td style='padding:10px;border:1px solid var(--color-border);'>72,800</td><td style='padding:10px;border:1px solid var(--color-border);'>71,200</td><td style='padding:10px;border:1px solid var(--color-border);'>62,400</td><td style='padding:10px;border:1px solid var(--color-border);'>72,000</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>Miscellaneous (3%)</td><td style='padding:10px;border:1px solid var(--color-border);'>29,700</td><td style='padding:10px;border:1px solid var(--color-border);'>26,400</td><td style='padding:10px;border:1px solid var(--color-border);'>27,300</td><td style='padding:10px;border:1px solid var(--color-border);'>26,700</td><td style='padding:10px;border:1px solid var(--color-border);'>23,400</td><td style='padding:10px;border:1px solid var(--color-border);'>27,000</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'><strong>Total Expenditure</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>465,300</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>413,600</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>427,700</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>418,300</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>366,600</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>423,000</strong></td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'><strong>Gross Profit</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>1,019,700</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>906,400</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>937,300</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>916,700</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>803,400</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>927,000</strong></td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>Tax (4%)</td><td style='padding:10px;border:1px solid var(--color-border);'>40,788</td><td style='padding:10px;border:1px solid var(--color-border);'>36,256</td><td style='padding:10px;border:1px solid var(--color-border);'>37,492</td><td style='padding:10px;border:1px solid var(--color-border);'>36,668</td><td style='padding:10px;border:1px solid var(--color-border);'>32,136</td><td style='padding:10px;border:1px solid var(--color-border);'>37,080</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'><strong>Net Profit</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>978,912</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>870,144</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>899,808</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>880,032</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>771,264</strong></td><td style='padding:10px;border:1px solid var(--color-border);'><strong>889,920</strong></td></tr></tbody></table><h2>Formulas Used</h2><ul><li>After-Sale Services = Sales × 0.50</li><li>Total Income = Sales + After-Sale Services</li><li>Rent = Sales × 0.08</li><li>Salaries = Sales × 0.10</li><li>Raw Materials = Sales × 0.18</li><li>Water & Electricity = Sales × 0.08</li><li>Miscellaneous = Sales × 0.03</li><li>Total Expenditure = SUM of all expenses</li><li>Gross Profit = Total Income − Total Expenditure</li><li>Tax = Gross Profit × 0.04</li><li>Net Profit = Gross Profit − Tax</li></ul><h2>Workplace Scenario</h2><p>You are the finance assistant at a manufacturing company. At the end of each quarter, you must prepare the income and expenditure statement for the board. You enter the monthly sales figures. Excel automatically calculates after-sale services, all expenses, gross profit, tax (4%), and net profit using formulas. You create a column chart comparing monthly net profit. You format the statement professionally and export it as a PDF for the board meeting. The board uses your statement to decide on expansion plans for the next quarter.</p>",
+  "downloads": [
+    {
+      "title": "Income Expenditure Template",
+      "description": "Excel income and expenditure statement with formulas",
+      "url": "resources/templates/income-expenditure-template.xlsx"
+    }
+  ],
+  "exercise": "Create a 6-month income and expenditure statement in Excel. Enter sales for each month: Jan 500,000, Feb 450,000, Mar 480,000, Apr 520,000, May 490,000, Jun 550,000. Calculate after-sale services at 50% of sales. Calculate expenses: Rent (8%), Salaries (10%), Raw Materials (15%), Utilities (7%), Miscellaneous (3%). Calculate Total Income, Total Expenditure, Gross Profit, Tax (5%), and Net Profit using formulas. Create a column chart showing monthly net profit. Save as Income_Statement.xlsx.",
+  "quiz": [
+    {
+      "question": "What is Gross Profit?",
+      "options": [
+        "Total Income + Total Expenditure",
+        "Total Income − Total Expenditure",
+        "Total Income × Total Expenditure",
+        "Tax + Net Profit"
+      ],
+      "correct": 1,
+      "explanation": "Gross Profit is calculated by subtracting total expenditure from total income."
+    },
+    {
+      "question": "If sales are 1,000,000 and after-sale services are 50% of sales, what is total income?",
+      "options": [
+        "500,000",
+        "1,000,000",
+        "1,500,000",
+        "2,000,000"
+      ],
+      "correct": 2,
+      "explanation": "1,000,000 + (1,000,000 × 0.50) = 1,000,000 + 500,000 = 1,500,000."
+    },
+    {
+      "question": "Why should you use formulas instead of typing each calculated value?",
+      "options": [
+        "Formulas make the file smaller",
+        "If you change the sales figure, all calculations update automatically",
+        "Formulas are required by law",
+        "Typing is faster"
+      ],
+      "correct": 1,
+      "explanation": "Formulas ensure that when you change a source value like sales, every dependent calculation updates automatically without manual re-entry."
+    },
+    {
+      "question": "Which chart type is best for comparing monthly net profit over 6 months?",
+      "options": [
+        "Pie chart",
+        "Line chart",
+        "Column chart",
+        "Scatter chart"
+      ],
+      "correct": 2,
+      "explanation": "A column chart makes it easy to compare values across different months side by side."
+    }
+  ]
+}

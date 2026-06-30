@@ -1,0 +1,836 @@
+
+--- PAGE 1 ---
+[Type text] Page 1 
+ 
+PRACTICALS 
+In your groups attempt any two three questions in excel, word and PowerPoint as 
+well as two questions in test practical’s to be submitted within two weeks time  
+ 
+MS EXCEL EXERCISE 
+ 
+QUESTION ONE 
+ 
+a) Open a new workbook and call it PRACT 1. In it enter the following table in a 
+sheet1. 
+ 
+NAME GENDER CA 01 CA 02 CA 03 CA 04 CA 05 
+Jones F 12 26 10 30 25 
+Anderson M 30 21 30 10 30 
+Williams M 21 30 21 10 25 
+Jeanson F 30 12 9 11 24 
+George M 25 9 16 13 26 
+Wilson M 15 4 18 16 28 
+Smith M 14 4 17 15 27 
+Betty F 25 15 10 23 16 
+Gloria F 26 12 13 01 25 
+       
+b) Using Functions get the total and average for each student 
+c) Using appropriate titles calculate the average, maximum and minimum in each 
+subject 
+d) Insert a row above row 1 and insert the title EXAMS ANALYSIS 2008. 
+e) Format all the numbers into 1 Decimal place 
+f) Using the IF Function give the remark “GOOD WORK” if the average is greater 
+than 26 otherwise “CAN DO BETTER”. 
+g) Using a function count all male students and put it in Cell A23. 
+h) In the first column apply the following formatting: BOLD, ITALICS 
+ 
+QUESTION TWO 
+Create the worksheet below and answer the questions that follow: 
+ A B C    D 
+1 INCOME       
+  JAN FEB MAR   APR MAY JUNE 
+2 SALES 990000 880000 910000 890000 780000 900000 
+3 AFTER-SALE 
+SERVICES 
+      
+4 TOTAL INCOME       
+5        
+6 EXPENDITURE       
+7 RENT       
+8 SALARIES       
+9 RAW MATERIALS       
+
+--- PAGE 2 ---
+[Type text] Page 2 
+ 
+10 WATER & 
+ELECTRICITY 
+      
+11 MISCELLANEOUS       
+12 TOTAL 
+EXPENDITURE 
+      
+13        
+14 GROSS 
+PROFIT/LOSS 
+      
+15        
+16 TAX       
+17 NET PROFIT/LOSS       
+ 
+Enter the table above in a worksheet and compute where necessary using the following 
+additional Information: 
+ 
+a) After-Sale services is 50% of the total Sales 
+b) Rent is 8% of Sales 
+c) Salaries is 10% of Sales 
+d) Raw Materials is 18% of Sales 
+e) Water and Electricity is 8% of Sales 
+f) Miscellaneous is 3% if Sales 
+g) TAX is 4% of the Gross Profit/Loss 
+ 
+PERFORM THE FOLLOWING ON MS EXCEL 
+a) The following is sample of a payroll used by Kajiado Secondary  
+School.  The worksheet rows and columns headings are marked 1, 2, 3,  
+and A, B, C, ........... respectively. 
+ 
+ A B C D E F G H 
+ NAME HRS 
+WORKE
+D 
+PAY 
+PER 
+HOU
+R 
+BASI
+C 
+PAY 
+ALLOWAN
+CES 
+GROS
+S PAY 
+TAX 
+DED
+. 
+NET 
+PAY 
+1 Korir F. 12 1500      
+2 Atieno J. 28 650      
+3 Mutiso P. 26 450      
+4 Asha O. 30 900      
+5 Ojwak Z. 18 350      
+ 
+Using the following expressions to help the school by answering the questions that 
+follow to make the school utilise the computer spreadsheet that it has recently 
+installed to prepare employees payroll. 
+ 
+ Basic pay = hours worked * pay per hour 
+ Allowances are allowedat01% of the basic pay 
+ Gross pay = Basic pay + Allowances 
+
+--- PAGE 3 ---
+[Type text] Page 3 
+ 
+ Tax deductions are calculated at 20% of gross pay 
+ Net pay = Gross pay – Tax deductions 
+Write the functions using cell references for the following cells:  [5 
+marks] 
+ 
+i) D 2 
+ii) E 4 
+iii) F 10 
+iv) G 7 
+v) H 5 
+Question Two – 20 marks 
+ 
+a) A worksheet contains the data shown below:  
+Cell A1 A2 A3 C1 C2 C3 G1 G2 
+Entry 5 7 10 10 15 15 =sum 
+if(A1:C3”<=10”) 
+ 
+ i. State the value displayed in G1.   [3 marks] 
+ii. Write the formular or function that can be used to display the highest 
+vlue/entry from the range in cell G2. 
+ 
+iii. Using the nested if control structure award a grade to the sum at cell G1 
+whereby: 
+ 
+ 70 – 100 – A 
+ 50 – 70 – B 
+ <49 – C       [5 marks] 
+QUESTION ONE 
+Create a new workbook and name it as Students records and enter the following   
+Table.                                                                         
+Name Reg. No. Department Tuition 
+Fee 
+Fee Paid Fee Balance 
+Joe Kim SIT/0004/07 Information 
+Technology 
+130000 70000  
+Zack Ireri EDS/0010/07 Education 
+Science 
+100000 55000  
+Jedidah Chebet PRD/0005/07 Production 
+Engineering 
+140000 80000  
+Roy Henry COM/0012/07 Information 
+Technology 
+130000 65000  
+Joy Harriet BCR/0003/07 Criminology 
+& Social 
+Work 
+100000 45000  
+Vivien Mwangi ECE/0020/07 Electrical 135000 95000  
+
+--- PAGE 4 ---
+[Type text] Page 4 
+ 
+Engineering 
+Tom Onyango BJM/0008/08 Journalism & 
+mass com 
+110000 25000  
+    
+b) Compute the students’ fee balances                                             
+c) Represent the student’s fee balances in Bar chart, save it in sheet 2 and rename the 
+sheet as     Balances                                                                                     
+d)  Summarize the data in the table above using the DEPARTMENT column. Save it in  
+      Sheet3.                                                                                        
+e) Find the Average fees paid     
+ 
+QUESTION TWO 
+                                                 
+i) Open a new workbook and call it PRACT 1. In it enter the following table in a 
+sheet1. 
+ 
+NAME GENDER CSC 122 CSC 124 CSC 109 CSC 132 CSC 111 
+Jones F 19 26 10 30 23 
+Anderson M 30 23 33 10 30 
+Williams M 21 30 21 10 25 
+Jeanson F 30 12 9 11 24 
+George M 28 9 16 19 26 
+Wilson M 19 6 18 16 28 
+Smith M 16 7 18 15 27 
+Betty F 25 15 10 23 16 
+Gloria F 26 16 13 01 25 
+ 
+j) Using Functions get the total and average for each student 
+k) Using appropriate titles calculate the average, maximum and minimum in each 
+subject 
+l) Insert a row above row 1 and insert the title EXAMS ANALYSIS 2010. 
+m) Format all the numbers into 1 Decimal place 
+n) Using the IF Function give the remark “GOOD WORK” if the average is greater 
+than 26 otherwise “CAN DO BETTER”. 
+o) Using a function count all male students and put it in Cell A26. 
+p) In the first column apply the following formatting: BOLD, ITALICS 
+QUESTION THREE 
+Create the worksheet below and answer the questions that follow: 
+ 
+ A B C D E F G 
+1 INCOME       
+  JULY AUG SEP  OCT NOV DEC 
+2 SALES 110000 990000 950000 880000 890000 910000 
+3 AFTER-SALE 
+SERVICES 
+      
+4 TOTAL INCOME       
+
+--- PAGE 5 ---
+[Type text] Page 5 
+ 
+5        
+6 EXPENDITURE       
+7 RENT       
+8 SALARIES       
+9 RAW MATERIALS       
+10 WATER & 
+ELECTRICITY 
+      
+11 MISCELLANEOUS       
+12 TOTAL 
+EXPENDITURE 
+      
+13        
+14 GROSS PROFIT/LOSS       
+15        
+16 TAX       
+17 NET PROFIT/LOSS       
+ 
+Enter the table above in a worksheet and compute where necessary using the following 
+additional Information: 
+ 
+h) After-Sale services is 60% of the total Sales 
+i) Rent is 11% of Sales 
+j) Salaries is 12% of Sales 
+k) Raw Materials is 20% of Sales 
+l) Water and Electricity is 10% of Sales 
+m) Miscellaneous is 4% if Sales 
+n) TAX is 6% of the Gross Profit/Loss 
+h) Using a Pie chart, compare the monthly Net Profit/Loss  
+i)  Using a Column Chart, Compare the monthly Total Expenditure 
+ 
+Required  
+ 
+- Submit your assignments in hardcopy by 4th March 2011 in LBB 011 
+ 
+COMPUTER SCIENCE DEPARTMENT 
+CSC 109 PRACTICAL -WORD PROCESSING PRACTICAL SEM II 2015/2016 
+  Create the following document below using word processor and save as Word Features     
+Insert a footer with a list of registration numbers of the group members, interest the 
+text CSC 109 as headers                   
+ 
+ 
+A 
+About master 
+documents 
+ Master document 
+contains links to a set of 
+related subdocuments. 
+Use a master document 
+to organize and maintain 
+a long document by  
+About headers and 
+footers 
+Headersi and footers are 
+areas in the top and 
+bottom margins of each  
+by clicking Header and 
+Footer on the View 
+menu. 
+
+--- PAGE 6 ---
+[Type text] Page 6 
+ 
+ 
+Add margins for 
+binding. Use a gutter 
+margin to add extra 
+space to the side or top 
+margin of a document 
+you plan to bind. A 
+gutter margin ensures 
+that text isn't obscured 
+by the binding. 
+ 
+. 
+Name and password that 
+you type into the Data  
+ 
+ 
+C 
+onnection Wizard 
+when defining a 
+connection to that data 
+source. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 7 ---
+[Type text] Page 7 
+ 
+ 
+1. Using your Word processing knowledge, produce the document below and save it 
+as directory in my documents 
+ 
+ 
+ABOUT THE DIRECTORY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 Create the following table using Ms Word and save in your local disk as      
+Applications    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Create 
+the document below and save it as agrichemicals ltd in your local disk c                                                   
+          
+ 
+ 
+S 
+pecialists in termites, pre-site treatment cockroaches, Bats, Rodents, Woodworm 
+Fumigation services for grain storage. 
+No:  Application Name  Duration (Hrs) 
+1. Introduction to computer & Operating 
+System 
+20 
+2. Word Processing with Microsoft Word 20 
+3. Spreadsheet with Microsoft Excel 20 
+4.  Database Management with Microsoft 
+Access 
+20 
+5. Presentation with PowerPoint 20 
+6. Internet and E-Mail 20 
+7 Desktop Publishing 20 
+8 Statistical Analysis with SPSS 20 
+9 Project management with Ms. Project 30 
+10. Photoshop 20 
+11. Corel Draw 20 
+GENERAL 
+The Official Yellow Pages are published by Kenya Postel Directories Ltd, which is a registered company in Kenya. 
+The name “Yellow Pages”, the “Walking fingers” logo, and this directory are registered by Kenya Postel Directories 
+Ltd. 
+ 
+This directory is published every year in the month of December. Customers are advised that the  
+Telephone Sales, Telkom Kenya 
+ 
+Entries in the Directory 
+ One free entry in respect to the name, Physical address, and telephone numbers will be made for every Business 
+Customer. Residential customers will be listed with their names and telephone numbers. Other entries may be made 
+on payment of the relevant fees. 
+ 
+For more details please contact 
+Marketing Department, Kenya Postel Directories Ltd 
+Telephone 226263 Fax 213526 
+Email: infor@yellowpageskenya.com Website: http://www.yellowpageskenya.com 
+ 
+
+--- PAGE 8 ---
+[Type text] Page 8 
+ 
+ 
+26 Years experience quaranteed service 
+ Nomu 1 paste for moles 
+ Nomite ANT KILLER for termite or white ants 
+ 
+ Nobat for bats, Bkack quick cat for rats 
+ NOMITE WOOD preservative for timber treatment 
+                     
+ 
+1. Using your Ms Word knowledge, produce the document below and save it as 
+directory in your floppy diskette.            20 mks 
+ 
+ 
+ABOUT THE DIRECTORY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Create the document below and save it as agrichemicals ltd in your floppy 
+diskette.                                                 10 mks 
+ 
+GENERAL 
+The Official Yellow Pages are published by Kenya Postel Directories Ltd, which is a 
+registered company in Kenya. The name “Yellow Pages”, the “Walking fingers” logo, and this 
+directory are registered by Kenya Postel Directories Ltd. 
+ 
+This directory is published every year in the month of December. Customers are advised that the 
+particulars may be incorrect at the time they receive the directory, due to the ever changing 
+nature of customers contact details. KENYA POSTEL DIRECTORIES LTD and / or TELKOM 
+KENYA LIMITED will not be held liable for the consequences of any advertisement publication 
+or listing in so for as the same affect the rights of the advertiser or any third party. 
+ 
+All entries relating to change of customer contact details should be addressed to the 
+ 
+Telephone Sales, Telkom Kenya 
+ 
+Entries in the Directory 
+ One free entry in respect to the name, Physical address, and telephone numbers will be made for 
+every Business Customer. Residential customers will be listed with their names and telephone 
+numbers. Other entries may be made on payment of the relevant fees. 
+ 
+For more details please contact 
+Marketing Department, Kenya Postel Directories Ltd 
+Telephone 226263 Fax 213526 
+Email: infor@yellowpageskenya.com Website: http://www.yellowpageskenya.com 
+ 
+
+--- PAGE 9 ---
+[Type text] Page 9 
+ 
+ 
+ 
+ 
+S 
+pecialists in termites, pre-site treatment cockroaches, Bats, Rodents, Woodworm 
+Fumigation services for grain storage. 
+ 
+ 
+26 Years experience quaranteed service 
+ 
+ 
+ Nomu 1 paste for moles 
+ 
+ 
+ Nomite ANT KILLER for termite or white ants 
+ 
+ 
+ Nobat for bats, Bkack quick cat for rats 
+ 
+ NOMITE WOOD preservative for timber treatment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. You are the secretary to the Excel supplies ltd. The managing director has asked 
+you to write letters to the EIGHT company shareholders inviting them to an 
+annual general meeting to be held on 10th June 2007, as from 9.00 A.m. in the 
+company’s boardroom. Two days accommodation will be catered for. 
+Using your own arbitrary names and addresses, produce the above letters using Mail 
+merge in Ms word. 
+                                                 
+1. You are the secretary to the Excel supplies ltd. The managing director has 
+asked y ou to write letters to five company shareholders inviting the m to an 
+annual general meeting to be held on 10th April 2011, as from 10.00 A.m. in 
+the company’s boardroom . Two days accommodation will be catered for. 
+Using your own arbitrary names and address es, produce the above letters 
+using Mail merge in Ms Word. 
+EXERCISE 
+ 
+1. Using your Ms Word knowledge, create a report in word processing on 
+COMPUTER LABS STATUS    in computer science department. Your report 
+Answer to all your pests. We use good and 
+friendly products to the environment 
+Oduorless, modern methods. 
+ 
+
+--- PAGE 10 ---
+[Type text] Page 10 
+ 
+                                                                                                                                                 
+should have reasonable number of pages, your report  must contain table of 
+content, insert your name as footer and your reg no as header, and include a cover 
+page in your report to show the name of your lecturer for this case MR Wariaro, 
+in your report include all other word processing features. Submit your  work via e-
+mail address. (10 mks) 
+ 
+ 
+2. You are the secretary to the Excel supplies ltd. The managing director has asked 
+you to write letters to the EIGHT company shareholders inviting them to an 
+annual general meeting to be held on 10th April 2011, as from 1 0.00 A.m. in the 
+company’s boardroom. Two days accommodation will be catered for. 
+Using your own arbitrary names and addresses, produce the above letters using 
+Mail merge in Ms Word.          (10 mks) 
+ 
+DATABASE PRACTICALS 
+QUESTION 1. 
+ 
+a) You work with Landmark Supplies as an IT Consultant. The manager has given    
+     you the following details about the customers. Create a database to accommodate the   
+    details and give it an appropriate name                
+b) Design the following tables with the appropriate field properties and names.   
+    (Do not enter the data yet)         
+ 
+CUSTOMER DETAILS TABLE   
+CustName  CustId  CustAddress CustTel 
+Ben Kimani 1 6456 Nbi 0735764532 
+Linner Serem 2 6342 Nyeri 0721345690 
+Roy Hopkins 3 8935 Ksm 0720674532 
+Harriet Slim Patel 4 5463 Msa 0733564321 
+Ahmed Yusuf 5 8345 Kco 05243765 
+ 
+SUPPLY DETAILS TABLE 
+CustId ItemName ItemNo SupplyDate ItemQty 
+1 Fridges 10 2/6/2006 50 
+2 Laptops 12 5/6/2006 80 
+3 Televisions 15 7/6/2006 150 
+4 Gas Cookers 17 3/6/2006 200 
+5 Radios 19 10/6/2006 60 
+ 
+c) Create a relationship between the two tables above.                      2 mks 
+  
+d) Create a single form (Main with sub-form) from the tables above and enter   
+    the details                                                                                      5mks 
+ 
+e) Create a query which will display the CustId, CustName, ItemName and   
+
+--- PAGE 11 ---
+[Type text] Page 11 
+ 
+                                                                                                                                                 
+    ItemQty                                                                                         2 mks 
+ 
+f) Create a report based on question (e) above                                  2mks 
+ 
+ 
+ QUESTION 2        
+                   
+a) Create a new database named MMUST 
+b)  In it create the following table and save it as STUDENTS Details after assigning 
+a primary key 
+STUDENTS DETAILS 
+RNo Student 
+Name 
+Age Course Address Phone Town 
+1 Joe Smith 34 COMPUTER  5647 07215653 Nairobi 
+2 Kamlesh Patel 25 CIVIL 786 07204532 Kericho 
+3 Norah Irungu 45 CIVIL 234 07256545 Kajiado 
+4 Maggie 
+Machua 
+15 ELECTRICAL 678 0206543 Nairobi 
+5 Kibet Henry 26 COMPUTER  654 07234543 Nakuru 
+6 Harriet  37 CIVIL 987 05267543 Kakamega 
+7 Becky Atieno 28 CIVIL 453 564326 Kisumu 
+8 Geofrey  31 COMPUTER 221 112 Kisumu 
+9 Mary 22 COMPUTER 453 123214 Nakuru 
+10 John 35 COMPUTER 1245 142536 Kakamega 
+11 Harriet 25 CIVIL 1425 5654 Kisumu 
+ 
+FEES PAYMENTS DETAILS 
+RNo Required 
+fee 
+Payments made 
+INST1 INST2 INST3 INST4  
+1 150000 2000 5000 2500 3400 
+2 180000 25000 26550 50050 2500 
+3 180000 45200 3000 30000 4500 
+4 180000 15109 40254 25000 1500 
+5 150000 26000 5000 9025 2600 
+6 180000 37155 600 10500 3700 
+7 180000 2800 7588 11200 2800 
+8 150000 3100 8000 3000 3100 
+9 150000 2200 950 56000 2200 
+10 150000 3500 10000 2500 3500 
+11 180000 25500 11000 3000 2500 
+ 
+c) Create the following queries: 
+a)  A query that will pick the following attributes: 
+RNO and AGE. Save it as AGES 
+
+--- PAGE 12 ---
+[Type text] Page 12 
+ 
+                                                                                                                                                 
+b)   Show  details of all students whose age is greater than 30.   
+      Save it as THIRTIES. 
+d) A query that will show students from KISUMU or NAKURU 
+e) A query that will add all INSTALLMENTS to a new column called TOTAL. 
+f) A query that will find all the balances. Call it ANALYSIS 
+g) Create a query showing students whose balances exceeds 100000. call it    
+             HIGH.  
+ 
+Test Practical 1 
+ 
+Task 1: Create the following notice by inserting different shapes and WordArt; 
+ 
+RECEPTION 
+Welcome 
+ 
+Task 2:Type the following 10 commandments in a new document and apply numbering 
+as shown, later apply different colours and font types to each command. 
+1. You shall have no other Gods but me.  
+2. You shall not make for yourself any idol, nor bow down to it or worship it.  
+3. You shall not misuse the name of the Lord your God.   
+4. You shall remember and keep the Sabbath day holy.   
+5. Respect your father and mother.   
+6. You must not kill.   
+7. You must not commit adultery.  
+8. You must not steal.   
+9. You must not give false evidence against your neighbour.   
+10. You must not be envious of your neighbour's goods. You shall not be envious of 
+his house nor his wife, nor anything that belongs to your neighbour.  
+ 
+Save your practical…  
+ 
+Test Practical 2  
+Task 1: You’ve landed a job at Bata shoe company, the personnel manager assigns you 
+the task of compiling the payroll below. Using your Excel skills perform the calculations 
+to complete the payroll; 
+
+--- PAGE 13 ---
+[Type text] Page 13 
+ 
+                                                                                                                                                 
+  
+Further instructions: 
+ 
+a.) House allowance = 15% of Basic pay  
+b.) Transport Allowance = Basic pay + 2,500 
+ 
+c.) Bonus is awarded at the rate of Ksh. 3,000 to those earning Ksh. 10,000 and 
+above and 1,500 to those earning less than Ksh. 10,000. 
+ 
+d.) Gross pay = Basic Pay + Hse All + Transport All + 
+Bonus e.) NHIF is deducted at the rate of 120 to all the 
+employees f.) NSSF is deducted at the rate of 200 from 
+each employee g.) Net Pay = Gross pay – NHIF – NSSF 
+ 
+h.) Calculate the Total for each column in row 
+14 i.) Format the figures to currency (Ksh).  
+j.)  Apply beautiful formatting to your Worksheet 
+ 
+Save your practical… 
+ 
+Test Practical 3  
+Task 1: A chart/graph is a graphical representation of the numeric data in a worksheet. 
+Each cell (or piece of data) represented in the chart is called a data point. Data points are 
+represented on the chart by bars, columns, lines, or some other graphical device. A group 
+of related data points is called a data series. Type the following students score sheet and 
+perform the task that follow; 
+ 
+
+--- PAGE 14 ---
+[Type text] Page 14 
+ 
+                                                                                                                                                 
+NAME 
+FinancialAccou
+nting 
+Law 
+Entreprene
+urship 
+AVERAGE 
+     
+Jared Odhiambo 84 85 84  
+Joyce Kemunto 96 45 85  
+Peter Oyudi 85 85 45  
+Jannet Syombua 45 45 85  
+Joel Kimakia 85 58 45  
+Charles Kones 75 56 85  
+Joyce Nyaguthii 95 96 45  
+Paul Kimani 65 85 69  
+ 
+Create a 3D column chart showing performance in Financial Accounting 
+ii.) Create a line chart comparing the performance in Law and Entrepreneurship  
+iii.) Using the appropriate function find the average scores  
+iv.) Create a Pie chart showing the average scores 
+v.) Create an area chart showing the performance in Entrepreneurship  
+vi.) Create a bubble chart showing the Law scores 
+ 
+Test Practical 4 
+Task 1: The government of Kenya is currently looking forward to introduction of 
+computers to primary school children in the near future. Using your PowerPoint skills 
+create a 10 slide summarized presentation based on the following article entitled 
+“Children and Computer Technology”; 
+a. Add images to the presentation 
+b. Apply animation and transition to the slides 
+c. Use an appealing design on your slides 
+ 
+Test Practical 5 
+Task 1: Assume that you are a soccer coach for Mathare United, create a 10 
+slide presentation to introduce new recruits on the basic rules of the game 
+based on the information provided below, use slides to summarize the 
+information below; 
+ Add images to the presentation 
+ Apply animation and transition to the slides  
+Soccer is one of the simplest sports in the world. This may be the reason why it's the 
+most popular sport in the world. 
+
+--- PAGE 15 ---
+[Type text] Page 15 
+ 
+                                                                                                                                                 
+Size of field: The field must be rectangle, that's pretty much it. Length: minimum 100 m 
+(110 yds) maximum 110 m (120 yds). Width: minimum 64 m (70 yds) maximum 75 m 
+(80 yds) 
+For a 5v5 soccer experience I use futsal regulation size dimensions. This creates an 
+amazing experience pushing technical versus kick and chase ball. 
+ 
+ 
+ 
+  
+Ball Size:The ball size depends on age. Below is basic soccer rules sizes according to 
+our programs. We use the following sizes for all development programs. 
+3-5 y/o - size 4 - Size 3 is a good size to kick inside the house or back yard play. 
+However, they will outgrow size 
+3 fast and because of limited size the tow kick becomes a problem. 
+6-12 y/o - size 4- Size 4 will be used until about 11-12. It is a great size for development 
+and a futsal ball is size 4 so I prefer to develop players under 12 with 4's. 
+12-adult - size 5- This is the standard size for professional and adult soccer. Some 
+countries introduce size 5 to kids as young as 4. The ideas is more surface of ball = 
+more surface of boot. 
+Players: soccer is played by two teams preferably equal number. Max players per team 
+is 11 (Goalie + 10 field players). Team size is reduced by age. Some leagues play with 
+8 players for youth aged ten and under. And down to 6 per side for the under 5's. For 
+optimum development I use futsal rules 5v5. 
+Substitutions: Officially, you are only allowed 3 subs per game, however, depending on 
+modified rules this may be different. For youth leagues usually there is no cap on subs. A 
+substitution can only be performed when the 
+ball is not in play and your team has possession. (Ex) it's a throw in for your team, or 
+goal kick for your team. Substitutions cannot be made when the ball is in play (even if 
+your goalie has the ball in his/her hands.. this is still in play) This is different if your 
+playing futsal rules. 
+
+--- PAGE 16 ---
+[Type text] Page 16 
+ 
+                                                                                                                                                 
+Starting the Game:The game is started at the center of the field. The team who kicks off 
+passes the ball Forward to a teammate at the referees signal. The opposing team is not 
+allowed to enter the center circle until the team kicks off. 
+Game in play:as long the ball stay in the field the game is in play. only exceptions is 
+when the referee blows his whistle for an infraction or offside. The ball is considered in 
+play as long as it is in side the goal and side lines. Furthermore, it's still in play as long as 
+it has contact with the line. Therefore, the ball may be touching the outer part of the goal 
+or side line and still be considered in play (This applies if the ball is in the air as well). 
+contact with the goal post, corner flag, and referee back in the field is still considered in 
+play. The referee is considered a fixture of the field. 
+GOAL: In the basic soccer rules the point of the game is to get the ball in the opposing 
+teams goal and the team with the most goals after the specified time is the winner. The 
+ball must cross the goal line to be a goal. Therefore, if the ball is still in contact with the 
+goal line in the inner part of the goal it is not a goal! I have seen pro's sweep through the 
+goal line to save their team from a goal. Everybody swears that it was already in but the 
+cameras show the ball was still in contact with the line (This applies if the ball is in the 
+air as well). This has happened in the world cup and causes some controversy and drama 
+as the human eye decides if it was a goal or not. No computer or sensor is used and FIFA 
+is against using technology for that purpose. However MLS (Major League Soccer) has 
+been looking into being the first professional league to introduce this technology. The 
+MLS has a reputation for "trying" new things.  
+How long is a game? For basic soccer rules a game is no more than 90 min long. Two 
+halves of 45 min (that's what the pros play..with a 15 min half time break) 
+Youth games range from 15-30 min halves with a 7-10 min half time.  
+NO HANDS! Alright, I know you probably knew this but here it is anyway. Only the 
+goalie can use their hands. the definition for hand ball is any part of between your fingers 
+(including nails) to your upper arm. Your shoulder is actually legal to use! One side note 
+about goalies. the goalie is not allowed to use their hands if the ball was kicked back to 
+them intentionally by any of his/her team mates. This rule is about 25 years old. in the 
+old days defenders, when under pressure, would pass the ball back to their goalie to 
+secure in their hands (this was a good rule change for spectators). Youth leagues under 
+10's don't really enforce this rule as most of the time it isn't an intentional pass back. 
+Coaches should not be teaching this as an option. 
+Out of Bounds: if the ball crosses the side line it is a throw in. The team who did not 
+touch the ball last before the ball crossed the line gets the throw in. If the ball crosses the 
+goal line two things may occur. If the team that is defending that goal line touches it out 
+it is a corner kick. If the team attacking that goal kicks it out it is a goal kick. Soccer is 
+very simple and very enjoyable. Don't complicate the basic soccer rules too much with 
+technical rules that only apply when playing competitively. Save your practical… 
+ 

@@ -1,0 +1,67 @@
+{
+  "title": "Saving and Organizing Documents",
+  "moduleTitle": "Computer Foundations",
+  "description": "Learn professional habits for saving, naming, and organizing documents so nothing gets lost and everything is easy to find.",
+  "objectives": [
+    "Apply consistent naming conventions",
+    "Use Save As vs Save correctly",
+    "Create backup copies of important work",
+    "Organize documents by date, client, or project",
+    "Understand indexing and archiving"
+  ],
+  "content": "<h2>The Cost of Disorganization</h2><p>A workplace survey found that the average employee spends 1.8 hours per day searching for files. That is nearly a full day every week wasted because of poor organization. For an administrative professional, disorganization can mean missed deadlines, lost contracts, and frustrated colleagues.</p><h2>Save vs Save As</h2><p><strong>Save</strong> updates the existing file with your changes. <strong>Save As</strong> creates a new copy with a new name, location, or file type. Use Save As when you want to create a new version without overwriting the original. For example, when you finish a draft report and are ready to send it, Save As PDF while keeping the original Word document.</p><h2>Naming Conventions That Work</h2><p>The best file names tell you three things: what the file is, when it was created, and who or what it is about. Try this format:</p><pre style='background:var(--color-bg);padding:12px;border-radius:var(--radius-sm);font-family:monospace;overflow-x:auto;'>YYYY-MM-DD_ClientName_DocumentType_Version</pre><p>Examples:</p><ul><li><code>2024-03-15_BrightTech_Contract_v1.docx</code></li><li><code>2024-03-20_StaffMeeting_Agenda.pdf</code></li><li><code>2024-Q1_ExpenseReport_Final.xlsx</code></li></ul><h2>Version Control</h2><p>When multiple people edit a document, version control prevents confusion. Always use version numbers (v1, v2, v3) and include the word FINAL only on the last version. Never use FINAL in the middle of a project, because there will always be a 'final final'.</p><h2>Backup Habits</h2><p>Important documents should exist in at least two places. A good rule is: one copy on your computer, one copy on a shared drive or cloud storage. For very important documents, keep a third copy on an external drive or USB stick. Indexing your documents — creating a master list of where everything is stored — also helps you find files quickly when under pressure.</p><h2>Archiving Old Documents</h2><p>When a project is complete, move all related files into an Archive folder. This keeps your active workspace clean while preserving records for future reference. Name archive folders by year and project: <code>Archive/2023/ BrightTech_Campaign</code>. Before archiving, make sure you have a final PDF version of all important documents.</p>",
+  "downloads": [
+    {
+      "title": "File Naming Convention Guide",
+      "description": "Reference for naming files at work professionally",
+      "url": "resources/pdfs/naming-conventions.pdf"
+    }
+  ],
+  "exercise": "Create a folder named Save_Practice. Create three versions of a Word document: v1_Draft, v2_Reviewed, and v3_FINAL. Save each with a proper date and descriptive name. Then save v3 as a PDF in the same folder. Create a backup of the folder by copying it to a different location (e.g., a USB drive or a cloud folder). Finally, create an index document listing all files and their locations.",
+  "quiz": [
+    {
+      "question": "When should you use Save As instead of Save?",
+      "options": [
+        "When you want to overwrite the original",
+        "When you want to create a new file with a different name or format",
+        "When you are finished editing forever",
+        "Never, always use Save"
+      ],
+      "correct": 1,
+      "explanation": "Save As is used when you want to preserve the original while creating a new version or changing the file format."
+    },
+    {
+      "question": "What is wrong with the file name 'Report FINAL FINAL v3.docx'?",
+      "options": [
+        "It is too short",
+        "It uses FINAL incorrectly and is confusing",
+        "It has no date",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "The name is confusing because it uses FINAL multiple times, and it lacks a date which makes sorting difficult."
+    },
+    {
+      "question": "How many copies of important documents should you keep?",
+      "options": [
+        "One copy is enough",
+        "At least two copies in different places",
+        "Ten copies everywhere",
+        "Only on a USB drive"
+      ],
+      "correct": 1,
+      "explanation": "Having at least two copies in different locations protects against data loss from hardware failure or accidental deletion."
+    },
+    {
+      "question": "What is the purpose of archiving documents?",
+      "options": [
+        "To delete them forever",
+        "To move completed projects to long-term storage and keep active space clean",
+        "To share them on social media",
+        "To make them editable by anyone"
+      ],
+      "correct": 1,
+      "explanation": "Archiving moves completed projects to long-term storage, keeping your active workspace organized while preserving records."
+    }
+  ]
+}

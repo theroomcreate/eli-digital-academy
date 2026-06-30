@@ -1,0 +1,67 @@
+{
+  "title": "Introduction to PDF Documents",
+  "moduleTitle": "Computer Foundations",
+  "description": "Discover why PDFs are the standard for professional documents and learn how to open, read, and print them confidently.",
+  "objectives": [
+    "Understand what a PDF is and why workplaces use it",
+    "Open and navigate PDF documents",
+    "Use basic PDF tools like zoom, search, and print",
+    "Recognize when to use PDF instead of Word",
+    "Add comments and highlights to PDFs"
+  ],
+  "content": "<h2>What Is a PDF?</h2><p>PDF stands for <strong>Portable Document Format</strong>. It was created by Adobe so that a document would look exactly the same on any computer, phone, or printer, regardless of what software was installed. In the workplace, PDF is the standard for contracts, invoices, reports, and any document that must look professional and consistent.</p><h2>Why PDFs Are Everywhere at Work</h2><p>Imagine you create a beautiful report in Microsoft Word using a special font. You email it to a client who does not have that font installed. When they open it, the text looks completely different. If you send a PDF instead, the font, layout, and images stay exactly as you designed them.</p><h2>Opening PDFs</h2><p>Most computers can open PDFs without any special software. On Windows, you can use Microsoft Edge or the built-in PDF reader. On Mac, the Preview app works perfectly. For more advanced features like editing or filling forms, you might need Adobe Acrobat Reader, which is free.</p><h2>Basic PDF Skills</h2><ul><li><strong>Zoom:</strong> Use Ctrl + Plus or Ctrl + Minus to zoom in and out. Or use the zoom controls in the toolbar.</li><li><strong>Search:</strong> Press Ctrl + F to search for a word or phrase inside a long document.</li><li><strong>Print:</strong> Always check the print preview before printing a PDF to make sure it fits the page.</li><li><strong>Text selection:</strong> Some PDFs let you select and copy text. Others are scanned images and do not allow this.</li><li><strong>Comments and highlights:</strong> When reviewing a document, use the comment tool to add notes without changing the original text. Use highlighting to mark important sections. In Adobe Acrobat Reader, these tools are in the Comment toolbar. Always save a copy with your comments so the original remains untouched.</li></ul><h2>Workplace Scenario</h2><p>You receive a 40-page PDF contract from a vendor. Instead of reading every page, you press Ctrl + F and search for 'payment terms' to jump directly to the section you care about. This saves 15 minutes and helps you focus on what matters. You also highlight key clauses and add a comment next to the delivery date, then save a copy as 'Contract_v1_Reviewed.pdf' to share with your manager.</p>",
+  "downloads": [
+    {
+      "title": "Sample PDF Contract",
+      "description": "A sample PDF to practice navigation and search",
+      "url": "resources/pdfs/sample-contract.pdf"
+    }
+  ],
+  "exercise": "Open any PDF on your computer. Practice zooming in and out, use Ctrl+F to search for a word, and scroll to the last page using the page navigation. Use the highlight tool to mark one important sentence. Add a comment with your name and today's date. Save a copy with a new name that includes '_Reviewed'.",
+  "quiz": [
+    {
+      "question": "What is the main advantage of using a PDF over a Word document?",
+      "options": [
+        "PDFs are easier to edit",
+        "PDFs look the same on every device",
+        "PDFs are always smaller",
+        "PDFs can have more colors"
+      ],
+      "correct": 1,
+      "explanation": "PDFs preserve formatting, fonts, and layout across all devices, making them ideal for professional sharing."
+    },
+    {
+      "question": "Which keyboard shortcut lets you search inside a PDF?",
+      "options": [
+        "Ctrl + S",
+        "Ctrl + P",
+        "Ctrl + F",
+        "Ctrl + Z"
+      ],
+      "correct": 2,
+      "explanation": "Ctrl + F opens the find/search box in nearly all PDF readers and web browsers."
+    },
+    {
+      "question": "When should you send a PDF instead of a Word document?",
+      "options": [
+        "When the recipient needs to edit it",
+        "When the document is final and must look professional",
+        "When the file is very small",
+        "Never, Word is always better"
+      ],
+      "correct": 1,
+      "explanation": "PDF is the best choice for final documents that need to look consistent and professional across all devices."
+    },
+    {
+      "question": "Why should you save a copy before adding comments to a PDF?",
+      "options": [
+        "To preserve the original unchanged",
+        "Because comments delete the file",
+        "Because the original is always wrong",
+        "It is required by law"
+      ],
+      "correct": 0,
+      "explanation": "Saving a copy preserves the original document so it remains clean and unaltered for records or other reviewers."
+    }
+  ]
+}

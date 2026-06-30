@@ -1,0 +1,67 @@
+{
+  "title": "Working with PDFs in the Workplace",
+  "moduleTitle": "PDF Skills",
+  "description": "Master essential PDF skills: filling forms, adding comments, and extracting text for everyday workplace tasks.",
+  "objectives": [
+    "Fill out PDF forms digitally",
+    "Add comments and highlights to PDFs",
+    "Extract text from PDFs",
+    "Understand when to use fillable vs flat PDFs",
+    "Navigate and search long PDF documents efficiently"
+  ],
+  "content": "<h2>PDFs in Daily Work</h2><p>PDFs are not just for reading. In the modern workplace, you fill out forms, sign contracts, add feedback, and extract data from PDFs every day. Knowing how to work with PDFs efficiently is a core administrative skill.</p><h2>Filling PDF Forms</h2><p>Some PDFs are 'fillable,' meaning they have interactive fields where you can type directly. Others are 'flat,' meaning they are like images. For fillable forms, simply click in the field and type. For flat forms, you may need to use the 'Add Text' tool in Adobe Acrobat Reader or a free online editor.</p><h2>Adding Comments and Highlights</h2><p>When reviewing a document, use the comment tool to add notes without changing the original text. Use highlighting to mark important sections. In Adobe Acrobat Reader, these tools are in the Comment toolbar. Always save a copy with your comments so the original remains untouched.</p><h2>Extracting Text</h2><p>If a PDF was created from a digital document (not scanned), you can select text and copy it. If it is a scanned image, you may need OCR (Optical Character Recognition) software. Some PDF readers have built-in OCR for simple extraction.</p><h2>Search and Navigation</h2><p>Long PDF documents are common in the workplace. Use Ctrl+F to search for keywords. Use the thumbnail panel to jump between pages. Use bookmarks if the document has them. These skills save hours when reviewing contracts, reports, or manuals.</p>",
+  "downloads": [
+    {
+      "title": "Fillable Form Sample",
+      "description": "A sample fillable PDF to practice with",
+      "url": "resources/pdfs/sample-form.pdf"
+    }
+  ],
+  "exercise": "Download the sample form PDF. Open it and fill in all the fields with your information. Add one comment using the comment tool. Save the completed form with a new name: Completed_SampleForm_YourName.pdf.",
+  "quiz": [
+    {
+      "question": "What is the difference between a fillable PDF and a flat PDF?",
+      "options": [
+        "Fillable PDFs are smaller",
+        "Fillable PDFs have interactive fields; flat PDFs do not",
+        "Flat PDFs are only for printing",
+        "There is no difference"
+      ],
+      "correct": 1,
+      "explanation": "Fillable PDFs contain interactive form fields where you can type directly. Flat PDFs are like images and need special tools to add text."
+    },
+    {
+      "question": "Why should you save a copy before adding comments to a PDF?",
+      "options": [
+        "To preserve the original unchanged",
+        "Because comments delete the file",
+        "Because the original is always wrong",
+        "It is required by law"
+      ],
+      "correct": 0,
+      "explanation": "Saving a copy preserves the original document so it remains clean and unaltered for records or other reviewers."
+    },
+    {
+      "question": "What tool do you need to extract text from a scanned PDF?",
+      "options": [
+        "A printer",
+        "OCR (Optical Character Recognition)",
+        "A spreadsheet",
+        "A web browser"
+      ],
+      "correct": 1,
+      "explanation": "OCR software reads text from scanned images and converts it into selectable, editable text."
+    },
+    {
+      "question": "Which keyboard shortcut is best for finding a specific term in a 50-page contract?",
+      "options": [
+        "Ctrl + S",
+        "Ctrl + P",
+        "Ctrl + F",
+        "Ctrl + Z"
+      ],
+      "correct": 2,
+      "explanation": "Ctrl + F opens the search box, allowing you to jump directly to the relevant section without reading every page."
+    }
+  ]
+}

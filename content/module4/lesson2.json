@@ -1,0 +1,67 @@
+{
+  "title": "Converting and Combining PDFs",
+  "moduleTitle": "PDF Skills",
+  "description": "Learn how to merge multiple PDFs into one and split large PDFs for easier sharing and management.",
+  "objectives": [
+    "Merge multiple PDFs into one document",
+    "Split a large PDF into smaller sections",
+    "Reorder pages within a PDF",
+    "Understand file size limits for email",
+    "Compress PDFs to reduce file size"
+  ],
+  "content": "<h2>Merging PDFs</h2><p>In the workplace, you often need to combine multiple documents into one file. For example, a grant application might require a cover letter, budget, and references. Sending three separate files is messy. Sending one combined PDF is professional and easier for the recipient to manage.</p><h2>How to Merge</h2><p>Adobe Acrobat Reader (free version) and many online tools let you merge PDFs by dragging files into a sequence. Always check the final combined PDF to make sure pages are in the correct order. A common mistake is merging files in alphabetical order instead of logical order.</p><h2>Splitting Large PDFs</h2><p>Email systems often limit attachments to 10MB or 25MB. If your PDF is too large, split it into smaller sections. For example, a 50-page annual report could be split into Executive Summary, Financials, and Appendices. This also makes the document easier for readers to navigate.</p><h2>Reordering Pages</h2><p>If you merge files in the wrong order, use the thumbnail panel in your PDF viewer to drag pages into the correct sequence. Save the reordered document with a clear name like <em>2024-Report_CORRECTED.pdf</em> to avoid confusion.</p><h2>Compressing PDFs</h2><p>PDF compression reduces file size without significantly affecting quality. This is useful when you need to email a large PDF or upload it to a website with file size limits. Many PDF tools and online services offer compression options.</p>",
+  "downloads": [
+    {
+      "title": "PDF Merge Guide",
+      "description": "Step-by-step guide for merging PDFs",
+      "url": "resources/pdfs/pdf-merge-guide.pdf"
+    }
+  ],
+  "exercise": "Create three one-page PDFs from Word documents. Name them Part1, Part2, and Part3. Combine them into one PDF named CombinedDocument.pdf. Check that the pages are in the correct order. Then compress the file using any free PDF compression tool and note the before and after file sizes.",
+  "quiz": [
+    {
+      "question": "Why is it better to send one combined PDF instead of three separate files?",
+      "options": [
+        "It is smaller",
+        "It is more professional and easier for the recipient to manage",
+        "It prevents viruses",
+        "It is required by law"
+      ],
+      "correct": 1,
+      "explanation": "A single PDF is easier to open, print, and file than multiple separate attachments."
+    },
+    {
+      "question": "What should you do if a PDF is too large to email?",
+      "options": [
+        "Delete it",
+        "Split it into smaller sections or compress it",
+        "Print it and mail it",
+        "Send it in multiple emails"
+      ],
+      "correct": 1,
+      "explanation": "Splitting or compressing the PDF keeps the content accessible while respecting email size limits."
+    },
+    {
+      "question": "How do you fix pages that are in the wrong order after merging?",
+      "options": [
+        "You cannot fix it",
+        "Use the thumbnail panel to drag pages into the correct order",
+        "Reprint the whole document",
+        "Delete the file and start over"
+      ],
+      "correct": 1,
+      "explanation": "Most PDF viewers allow you to drag and drop page thumbnails to reorder pages before saving."
+    },
+    {
+      "question": "Why is it important to check the order of pages after merging PDFs?",
+      "options": [
+        "To make the file smaller",
+        "To ensure the document flows logically for the reader",
+        "To add more colors",
+        "To delete blank pages"
+      ],
+      "correct": 1,
+      "explanation": "Checking the page order ensures the combined document makes sense and follows the correct logical sequence."
+    }
+  ]
+}

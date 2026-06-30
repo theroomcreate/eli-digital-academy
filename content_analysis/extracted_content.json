@@ -1,0 +1,454 @@
+{
+  "excel_exercises": [
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "excel, word and PowerPoint as \nwell as two questions in test practical’s to be submitted within two weeks time  \n \nMS EXCEL EXERCISE \n \nQUESTION ONE \n \na) Open a new workbook and call it PRACT 1. In it enter the following table in a \nsheet1. \n \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "Functions get the total and average for each student \nc) Using appropriate titles calculate the average, maximum and minimum in each \nsubject \nd) Insert a row above row 1 and insert the title EXAMS ANALYSIS 2008. \ne) Format all the numbers into 1 Decimal place \nf) Using the IF Function give the remark “GOOD WORK” if the average is greater \nthan 26 otherwise “CAN DO BETTER”. \ng) Using a function count all male students and put it in Cell A23. \nh) In the first column apply the following formatting: BOLD, ITALICS \n \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "worksheet below and answer the questions that follow: \n A B C    D \n1 INCOME       \n  JAN FEB MAR   APR MAY JUNE \n2 SALES 990000 880000 910000 890000 780000 900000 \n3 AFTER-SALE \nSERVICES \n      \n4 TOTAL INCOME       \n5        \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "worksheet and compute where necessary using the following \nadditional Information: \n \na) After-Sale services is 50% of the total Sales \nb) Rent is 8% of Sales \nc) Salaries is 10% of Sales \nd) Raw Materials is 18% of Sales \ne) Water and Electricity is 8% of Sales \nf) Miscellaneous is 3% if Sales \ng) TAX is 4% of the Gross Profit/Loss \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "EXCEL \na) The following is sample of a payroll used by Kajiado Secondary  \nSchool.  The worksheet rows and columns headings are marked 1, 2, 3,  \nand A, B, C, ........... respectively. \n \n A B C D E F G H \n NAME HRS \nWORKE\nD \nPAY \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "spreadsheet that it has recently \ninstalled to prepare employees payroll. \n \n Basic pay = hours worked * pay per hour \n Allowances are allowedat01% of the basic pay \n Gross pay = Basic pay + Allowances \n\n--- PAGE 3 ---\n[Type text] Page 3 \n \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "Tax deductions are calculated at 20% of gross pay \n Net pay = Gross pay – Tax deductions \nWrite the functions using cell references for the following cells:  [5 \nmarks] \n \ni) D 2 \nii) E 4 \niii) F 10 \niv) G 7 \nv) H 5 \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "worksheet contains the data shown below:  \nCell A1 A2 A3 C1 C2 C3 G1 G2 \nEntry 5 7 10 10 15 15 =sum \nif(A1:C3”<=10”) \n \n i. State the value displayed in G1.   [3 marks] \nii. Write the formular or function that can be used to display the highest \nvlue/entry from the range in cell G2. \n \niii. Using the nested if control structure award a grade to the sum at cell G1 \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "workbook and name it as Students records and enter the following   \nTable.                                                                         \nName Reg. No. Department Tuition \nFee \nFee Paid Fee Balance \nJoe Kim SIT/0004/07 Information \nTechnology \n130000 70000  \nZack Ireri EDS/0010/07 Education \nScience \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "Summarize the data in the table above using the DEPARTMENT column. Save it in  \n      Sheet3.                                                                                        \ne) Find the Average fees paid     \n \nQUESTION TWO \n                                                 \ni) Open a new workbook and call it PRACT 1. In it enter the following table in a \nsheet1. \n \nNAME GENDER CSC 122 CSC 124 CSC 109 CSC 132 CSC 111 \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "Functions get the total and average for each student \nk) Using appropriate titles calculate the average, maximum and minimum in each \nsubject \nl) Insert a row above row 1 and insert the title EXAMS ANALYSIS 2010. \nm) Format all the numbers into 1 Decimal place \nn) Using the IF Function give the remark “GOOD WORK” if the average is greater \nthan 26 otherwise “CAN DO BETTER”. \no) Using a function count all male students and put it in Cell A26. \np) In the first column apply the following formatting: BOLD, ITALICS \nQUESTION THREE \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "worksheet below and answer the questions that follow: \n \n A B C D E F G \n1 INCOME       \n  JULY AUG SEP  OCT NOV DEC \n2 SALES 110000 990000 950000 880000 890000 910000 \n3 AFTER-SALE \nSERVICES \n      \n4 TOTAL INCOME       \n\n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "PROFIT/LOSS       \n15        \n16 TAX       \n17 NET PROFIT/LOSS       \n \nEnter the table above in a worksheet and compute where necessary using the following \nadditional Information: \n \nh) After-Sale services is 60% of the total Sales \ni) Rent is 11% of Sales \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "TAX is 6% of the Gross Profit/Loss \nh) Using a Pie chart, compare the monthly Net Profit/Loss  \ni)  Using a Column Chart, Compare the monthly Total Expenditure \n \nRequired  \n \n- Submit your assignments in hardcopy by 4th March 2011 in LBB 011 \n \nCOMPUTER SCIENCE DEPARTMENT \nCSC 109 PRACTICAL -WORD PROCESSING PRACTICAL SEM II 2015/2016 \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "Spreadsheet with Microsoft Excel 20 \n4.  Database Management with Microsoft \nAccess \n20 \n5. Presentation with PowerPoint 20 \n6. Internet and E-Mail 20 \n7 Desktop Publishing 20 \n8 Statistical Analysis with SPSS 20 \n9 Project management with Ms. Project 30 \n10. Photoshop 20 \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "Excel supplies ltd. The managing director has asked \nyou to write letters to the EIGHT company shareholders inviting them to an \nannual general meeting to be held on 10th June 2007, as from 9.00 A.m. in the \ncompany’s boardroom. Two days accommodation will be catered for. \nUsing your own arbitrary names and addresses, produce the above letters using Mail \nmerge in Ms word. \n                                                 \n1. You are the secretary to the Excel supplies ltd. The managing director has \nasked y ou to write letters to five company shareholders inviting the m to an \nannual general meeting to be held on 10th April 2011, as from 10.00 A.m. in \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "Excel (Spread Sheets), Ms Power Point (Presentation), Ms Access(Data Bases), \nMs Publisher and web Design more over each of them having over  25 resourceful \nquestions for reference and simplicity.  \nIn trying to write this book, I have made it so simple (Simple — Complex) bearing in \nmind that most learners/ students have insufficient or no background knowledge \nabout the use of computers.  \nThis book does not only predispose on the student‘s use in school but to anyone \noutside there that may be willing to learn how to launch and use IT basicprograms.  \nIt is h owever important to note that th e author has carefully studied the habitual \nNational Examination computer studies/Sub ICT syllabi and ha s carefully \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "country wide. However, “Computer Studies/ICT Practical Guide” as a guide book \nhas steadily and carefully been compiled and revised ‗by the teachers who have \ntested the hiccups in delivering of content in this noble field.  \n \n \n\n--- PAGE 5 ---\n A Complete practical guide to O, A ‘level and Institution. Page 5 \n \nDEDICATION  \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "SPREADSHEET (MS EXCEL)     68  \nWORKSHEET DATABASE MANAGEMENT      87  \nDATABASE. (MICROSOFT ACCESS)       126  \nPUBLICATION (MS PUBLISHER) \nWEB DESIGN          163  \nINTRODUCTION TO BASIC HTML       165  \n \n \n \n \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "counting , and reordering stock \nitems. \n Personnel Management: procedures for maintaining employee information (such as hire date, \nsalary, performance rating, and date of last review) for both development and reporting \npurposes. \n Payroll: procedures for producing paychecks and reports on employee compensation. \n Accounting: procedures for maintaining the company’s financial records. \n Security: procedures for controlling who has access to what data and information at what times \nand where, and who may enter data to a computer-based information system. \n Investment and General Financial Management : procedures a company institutes, follows, and \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "profit and growth. \nComputers are also being used in business to collect and analyze data, to produce concise inform ation for \nmanagement in a clear format suitable for making decisions, and to help managers avoid being overloaded \nwith unnecessary information. \n To keep up to date with detailed information about how computers are being used in the various \nsections of the business and banking world, consult well -known business publications such as Business \nWeek, Fortune, and The Wall Street Journal , as well as computer publications such as PC World  and \nMacworld.  \nSource: Hutchinson, Sarah E. and Sawyer, Stacey C. (1992). Computers The User Perspective, 3rd edition, pg. \n31, ISBN– 0-256-10435-2 \n\n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "country \nwas awarded the hosting rights on 2 December 2010. T his will be the first World Cup \never held in Eastern Europe, and the first held in Europe since 2006,\nall but one of the stadium venues are in European Russia, west of the Ural Mountains \nto keep travel time manageable. \nThe final tournament will involve 32 national teams, which include 31 teams \ndetermined through qualifying competitions and the automatically qualified host team. \nA total of 64 matches will be played in 12 venues located in 11 cities. The final will \ntake place on 15 July in Moscow at the Luzhniki Stadium.  \nThe winners will qualify for the 2021 FIFA Confederations Cup. \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "countries placed bids for the 2018 FIFA World Cup, but Mexico later \nwithdrew from proceedings, and Indonesia's b id was rejected by FIFA in February \n2010 after the Indonesian government failed to submit a letter to support the bid.  \nDuring the bidding process, the three remaining non -UEFA nations (Australia, Japan, \nand the United States) gradually withdrew from the 2018 bids, and the UEFA nations \nwere thus ruled out of the 2022 bid. As such, there were eventually four bids for  \nYou are required to: \n(i) Create another copy of the same document on page two without   retyping.   \n                       \n(ii) Centre align, and underline the heading of the pasted document.    \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "Countries for enhancing the educational \nsystem particularly for the underprivileged constituency, and thereby for raising \nthe level of quality of life of their people.  \na) Copy the document to another page.  \nb) Double space the space in the document.  \nc) Italicize and bold the word ICT through the document.  \nd) Use Times New Roman font face and font size, 12 for the entire document  \ne) Insert your name and personal number as the footer and header respectively. \nCenter align them.  \nf) Use mail merge feature to post the document to the recipients below.  \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "COUNTRY \nMS AKIIRO GRACE  P.O BOX 23, KAMPALA UGANDA  \nMR. ASSIMWE ANDREW  P.O BOX 19, NAIROBI  KENYA  \nMr. CADRE K. NAKIIR P O BOX 223 DALLAS TEXUS \nMS. KANYARWANDA STELLA P O BOX 9314 BWEYOGERERE \nMR KIBENGE KONKONA P O BOX 25 KAMPALA KYAMBOGO \n \ng. Save your work as your name and personal number.  \nh. Print the work.  \n \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "Summit in \nCape Town on 1 stJune, 2005. Representatives from the, Ugandan Government, the \nNEPAD e-Africa commission and HP signed a Memorandum of Understanding on 1 \nJuly 2005 in Johannesburg, paving the way for the launch of Bugulumbya  \nSecondary School, Busobya Village in Kamuli District as the first NEPAD e-School.  \nOn 18th, July 2005, less than two months after launch plans were announced, Flis \nExcellency, President Yoweri  Museveni of Uganda officially launched the \nBugulumbya e -School, attended by approximately 5,000 country officials and \nmembers of the community.  \nWith a staff complement: of 22, includin g 18 teachers, Bu gulumya Secondary \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "income security, the PTA bank \nbond is also being traded on the US E located at the East African Development \nBank (EADB) building in Kampala.  \nUganda‘s clays Ltd is the company whose shares were the first to be listed on the, \nstock exchange on January 18, 2000 while a multinational, British American \nTobacco Uganda (BATU) s  shares were initiall y l isted on the USE on October 3, \n2000.  \ni. Justify the whole of the document.  \nii. Make three copies of the document.  \niii. Apply two columns to your document.  \n\n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "functionality of word \nprocessing packages. These include:  \nOn-line thesaurus  \nSpelling checker \nGrammar checker  \nStyle checker  \nIdea processor (outline)  \n\n--- PAGE 35 ---\n A complete Practical Guide to O ‘level A ‘level and Institutions Page 35 \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "functionality of word processing packages  \n(vi). Insert a footnote of your name on the left and page number on the right and \ncorner.  \n(vii). Use the appropriate format to replace the word ―notation‖ with the other of \nthe same meaning.  \n(viii). Indent the whole document by ―0.5‖ to both the left and the right hand side.  \n(ix). Insert a clip picture in the middle of the paragraph, which begins with \n―document‖.  \n(x). Save your work under your name.  \n(xi). Print and copy your work.  \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "country in the world recognized the new state. In 1982 \nalmost one million black South Africans were transf erred to another country. \nSwaziland……… without their having any say in the matter.  \n\n--- PAGE 36 ---\n A complete Practical Guide to O ‘level A ‘level and Institutions Page 36 \n \nUltimately, Blacks demonstrated, held strikes and rioted over such discriminatory \npractices.  \nAs a result diplomatic pressure mounted abroad for change.  In 1990, Nelson  \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "country. On10th, May 1994, Nelson \nMandela was elected South Africa‘s first black president, in that country‘s first \ntruly democratic election.  \nRequired:  \ni. Insert in the header the word of your choice on the left hand corner.  \nii. Bold the heading font size 18 —point, underline, Italy and center it.  \niii. Block indent all paragraphs by 1 inch in the left and right margins.  \niv. In the fourth paragraphs starting with On may bold the second sentence  \nv. Make the body font size to 13 and foot style to Anal.  \nvi. Justify your work.  \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "income from the project that would be shown on an income statement. (Also known \nas the profit  and loss statement) Why? Because income on a P&L reflects \ndepreciation, but depreciat ion is not an out -of-pocket expense. For instance, if \nrevenue of $10,000 is reduced to $7000 of income because of a $3000 depreciation \ndeduction, you still have the use of the full $10,000. So the cash flow figure of \n$10,000 is usually the more instructive one to look at. However, if you are very \nconcerned ab out the appearance of your income statement (for example, if you \nanticipate putting the business up for sale or seeking major financing in the future, \nor if you are under stockholder pressure for increased income) you may decide that \nthe income figure is more appropriate to use.  \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "countries by 1.3% per year. Had \nthe disease been wiped out decades ago, $100 billion would have been added to \nsub Saharan Africa‘s current GDP of $300 billion this year.  \nMalaria transmission occurs by mosquitoes moving to houses, entering during the \nearly evening resting indoors and, at some point during the night, landing on \nhumans and biting. During the act of biting the mosquitoes might acquiremalaria \nparasites and become infected, or if already infected, they might transmit malaria \nto another human.  \nDDT residues on house on house walls can alter this sequence of mosquito \nbehavior.  \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "counterparts. Specifically, the research showed people who worked remotely part \ntime were the most engaged due to their ability to enjoy the best of both worlds -the \nopportunity to have in -person relationships with others in the office, while also \nbeing able to reap the benefits of working from ho me, such as fewer distractions. \nRemote workers are less stressed and happier to contribute, making them more \nloyal to the company. The reasons are:  \nTable 7. \n Remote workers are more productive and stick around longer \n Employees who work from home are more engaged  \n Remote workers are less stressed \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "functions i.e. \ni. An Editor that allows texts to be inserted and formatted.  \nii. A Method majorly for inserting and manipulating graphic images.  \niii. A Slide show that is a system to display the content.  \nExamples of presentation packages/software include the following;  \n Microsoft power point  \n Harvard graphics.  \n Open office presentation  \n Coral presentation  \n Lotus freelance graphics  \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "Country. \nSlide one:  Introduction:  \nTitle and name OF the presenter     \nSlide two:  Aims OF teaching Computer studies \nShould include Aims OF teaching computer studies to students \nin secondary schools.              \n     \n \nSlide three:        Topics to be examined in Section C OF Paper 1. \nInsert the table below to show how each stage can be prevented \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "counts for up to one-third of all HIV/AIDS deaths. \n“We cannot win the battle against AIDS if we do not fight TB. TB is too often \na death sentence for people with AIDS. It does not have to be this way” Mandela said. \nHe said resources for detecting and treating TB were  woefully short  despite the \nworld having had a cure for it more than 50 years ago. \n(adpted from: the Newvision, Monday, July 19, 2004.) \n \n (ii) Copy and paste the document to page 2.                   (2marks) \n (iii) Using the copy on page 2, centre, bold and underline the heading and make it\n font size 24.                                  (3marks) \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "income is a cow. When this cow stops giving milk one morning, \nJack is sent to the market to sell it. On the way to the market he \nmeets an old man who offers to give him “magic” beans in exchange \nfor the cow. \nJack takes the beans but when he arrives home without any money, \nhis mother becomes angry and throws the beans to the ground and \nsends Jack to bed without supper. \n \n(b) Copy all the text and paste it in a new blank document. Save it as \nReading Lesson 2.                        (02marks)\n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "formulae to find the average age and Total Salary  \n            (02marks) \n(f) (i) Insert as column to the right of the table and merge the cells. \n\n--- PAGE 6 ---\n6 \n \n(ii) Type the text “Salary is paid on 28th day of every month without fail” \nand align it vertically in the centre.      (03marks) \n (g) Insert a row at the top of the table and insert a suitable heading         (02marks) \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "EXPENDITURE \n \n JAN FEB MARCH APRIL MAY JUNE \nTaxes  50,000 50,000 - - 50,000 50,000 \nRent 80,000 25,000 80,000 90,000 80,000 80,000 \nElectricity 20,000 80,000 15,000 10,000 10,000 5000 \nWater 25,000 25,000 25,000 25,000 25,000 25,000 \nPersonal \nexpenses \n60,000 75,000 85,000 90,000 50,000 40,000 \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "formula Sum up the total for each month \n  (c) Sort the items in column 1 in alphabetical order. \n  (d) Add a column after June and type in the heading “Total”  \n  (e) Sum up the totals for each item. \n  (f) Add a row at the very top and type the title “MONTHLY  \n   EXPENDITURE” \n  (g) Add a double line red border around your table. \n  (h) Save your work Your Name – Stream. \n \nQn.13.(a) (i) Using a word processor, create the table below as it is (5mks) \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "functions covers such things as:- \n  \n Formatting \n Backing up discs. \n Disc storage \n Deleting or erasing documents \n Copying documents. \nIndexing of documents and discs. \n And archiving-long term, off-line storage \nSecurity – identity/access codes and passwords \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "country. This is great and thanks to God!!! \n \nHowever, I regret to inform you that the increments which should have \nbeen effected immediately will be delayed for one month due to the break \ndown in our computer system. We are however, working around the \nclock to ensure that you are paid fully including your arrears next month. \n \nHappy Easter \n \n Required: \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "counts. \n \n“And the good news is that the body got rid of the parts of the system that \nmight be damaged or old, the inefficient parts, during the fasting”. He \nadded. “Now, if you start with a system heavily damaged by \nchemotherapy or using fasting cycles can generate, literarily, a new \nimmune system”. \n \nThe study also found that fasting reduces levels of the enzyme PKA, an \neffect which is known to increase longevity in simple organisms, as well \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "sum feature in the above application used to generate the \ntotal sum of items dispatched in the table above.           (02marks) \n(iii) Change the table heading to font style to bookman old style and font size \n13.5 points.                (01 mark) \n(v) Apply a three line boarder around the outmost border excluding the \nheading.                 (02marks) \n(vi) Insert an endnote as “®with God everything is possible”          (02marks) \n(vii) The word dispatch note appearing in the centre should have strike \nthrough effect.                (02marks) \nDispatch Note \n\n"
+    },
+    {
+      "file": "Word, Excel, PowerPoint & Access Pratical Question Paper.pdf",
+      "text": "summer project in their companies using Mail Merge. \n7. Create and print an envelope with your return address. \n8. Type a letter and create an envelope for it that you add to your document. Preview it in \nPrint Preview. \n9. Create a document that contains several paragraphs of text. Select the text and convert it \ninto two columns. Balance the column length. Add a line between the columns, also add a \ntitle that spans both the columns. \n10. Create a Table Student using Table Handling feature, include five columns and five rows \ntaking your own data.      \n11. Select any table create the following \n"
+    },
+    {
+      "file": "Word, Excel, PowerPoint & Access Pratical Question Paper.pdf",
+      "text": "worksheet with the days of the week at the top and time from 9.00 \n To 17.00 in intervals of 30 minutes (9.00, 9.30, 10.00,,,,,,,,,,,,,,,,,,, 17.00) use Auto fill feature \nto create this worksheet \n16.  Create the following Student worksheet  \nSNo Name Mark1 Marks2 Mark3 Mark4 Mark5 Total \n        \n \nUsing Auto Sum calculate the total marks. \n17. In above table find Maximum and Minimum marks in columns mark1, mark2, mark3, \nmark4 and total. \n"
+    },
+    {
+      "file": "Word, Excel, PowerPoint & Access Pratical Question Paper.pdf",
+      "text": "worksheet showing employee code, employee name and designation of the \nsoftware engineers working in a company XYZ. The employee code starts with increments \nby one for engineer and ends with 1007. Use series fill option and fill code. Also insert \ntoday’s date on the top of the worksheet.  \n19. Select student worksheet, sort the data in the descending order of total using sort option. \nUsing filter option, filter irrelevant data. \nCreate the following worksheet Salary (Enter at least 5 records) \nName Basic HRA TA Deductions Gross \nPay \nTax Net Pay \n"
+    },
+    {
+      "file": "Word, Excel, PowerPoint & Access Pratical Question Paper.pdf",
+      "text": "sume your deductions \nGross Pay is Basic + HRA+TA-Deductions \nTax is 30% of Gross Pay \nNet Pay is Gross Pay –Tax \n20. In above table find the average (or mean) salary, count of employees getting less than \naverage salary. \n21.  create a bar graph for the  above data \n22. Create an exploded pie chart with 3-D visual effect using above data. \n23. Create a column chart of employees Net Pay. \n24. Create the following worksheet that shows the number of planes arriving in an airport in \n"
+    }
+  ],
+  "word_exercises": [
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "Insert a row above row 1 and insert the title EXAMS ANALYSIS 2008. \ne) Format all the numbers into 1 Decimal place \nf) Using the IF Function give the remark “GOOD WORK” if the average is greater \nthan 26 otherwise “CAN DO BETTER”. \ng) Using a function count all male students and put it in Cell A23. \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "table above using the DEPARTMENT column. Save it in  \n      Sheet3.                                                                                        \ne) Find the Average fees paid     \n \nQUESTION TWO \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "Insert a row above row 1 and insert the title EXAMS ANALYSIS 2010. \nm) Format all the numbers into 1 Decimal place \nn) Using the IF Function give the remark “GOOD WORK” if the average is greater \nthan 26 otherwise “CAN DO BETTER”. \no) Using a function count all male students and put it in Cell A26. \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "WORD PROCESSING PRACTICAL SEM II 2015/2016 \n  Create the following document below using word processor and save as Word Features     \nInsert a footer with a list of registration numbers of the group members, interest the \ntext CSC 109 as headers                   \n \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "table of \ncontent, insert your name as footer and your reg no as header, and include a cover \npage in your report to show the name of your lecturer for this case MR Wariaro, \nin your report include all other word processing features. Submit your  work via e-\nmail address. (10 mks) \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "tables above.                      2 mks \n  \nd) Create a single form (Main with sub-form) from the tables above and enter   \n    the details                                                                                      5mks \n \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "numbering \nas shown, later apply different colours and font types to each command. \n1. You shall have no other Gods but me.  \n2. You shall not make for yourself any idol, nor bow down to it or worship it.  \n3. You shall not misuse the name of the Lord your God.   \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "WORD PROCESSING. \nAn electronic Word proce ssor is application software that enables th e user to \ncreate, edit, format and print more professional text-rich documents.  \nA word processor (more formally known as document grounding/preparation \nsystem) is a computer application used for the production (including composition, \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "formatting, and possibly printing) of any sort of printable material  \nComputer word processing is application software that encompasses the \nproduction of professional looking documents. These documents may include the \nfollowing; memos , circulars, preparing letters, greeting cards, doing simple office \nworks to mention but a few.  \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "formatting and editing of such \ndocuments becomes a nightmare  where manual modes of document production, \nfilling and transmission are used.  \nIn order to minimize and eliminate such hustles, several electronic devices and \nservices by computerized systems and electronic typewriters have been developed \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "word processing systems have gotten easy to use \ndocument edits and formats features capable of making documen ts look more and \nmore business like if well mastered. Some people and organizations earn their \nliving by producing documents for others using computerized systems.  \nTherefore, it is important that learners get introduced to the basic practical \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "formatting features that make a document more \nappealing to the reader.  \n• The user can produce multiple copies more easily.  \n• Copy and move (cut) operation make it easier to manipulate a document.  \n \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "formatting tool bar  \nToolbars consist of buttons of commands (icons) that provide sh ortcuts to \ncommands available in the menu bar. The two default toolbars are the standard \nand formatting toolbars. \n\n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "highlighted/blocked, a floating formatting toolbar is displayed above the selected \ntext. Moreover, documents saved in 2007/10 format cannot be opened in the previous \nversion unless you save the file in compatibility mode.  \nThe appearance a Microsoft word processor window \n This is the work area where you create your document. It resembles an ordinary piece \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "Highlight the text to be deleted.  \n• Press the delete key or the backspace key.  \nNote:  \n• Delete key erases a character to the right of the cursor while the backspace \ndeletes characters to the left.  \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "spell check a document:  \n• On Tools menu click Spelling and Grammar or press F7.  \n• In the Spelling and Grammar dialog box, misspelled words are shown in red while \ngrammatically incorrect phrases are in green.  \n• From the suggestion list, select the correct spelling or grammar.  \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "Highlight text.  \n• On Tools menu, point to Language then click Thesaurus.  \n• Select a synonym or an antonym.  \n8) Autocorrect and auto Text. \nAutocorrect and Auto Text are used to automatically correct a commonly misspelled \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "insert a predefined text when creating a document.  \nTo create an autocorrect or auto text:  \n• On the Insert tab menu, point to Auto text, and then click Auto text command.  \n• Click the Auto text or Autocorrect tab and type the autocorrect or auto text.  \nClick OK to apply and close the dialog box.  \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "Highlight character(s):  \n• On the Formatting tool bar, you can directly select it i.e. X2 or X2, or click Font  \nOn the Font dialog box check superscript or subscript.  \n12) Paragraph formatting.  \nA paragraph is a special block of text dealing with a single theme and starting on a \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "formatting  features you can apply onto a paragraph \ninclude: alignment, setting tabs and indents, drop cap, bullets and numbering, line \nspacing, inserting columns and page breaks.  \n \n13) Alignment.  \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "Highlight the text.  \n• On the Formatting tool bar, click Paragraph.  \n• In the dialog box, select the Alignment option then click OK.  \n14) Line spacing.  \nLine spacing is setting space between lines, paragraphs or blocks of text.  \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "Highlight the lines of text.  \n• On the Format menu, click Paragraph.  \n• In the Paragraph dialog box, select the line spacing option from the line spacing \nlist box then click the OK button.  \n16) Setting tabs and Indents.  \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "Formatting tool bar menu, click Tabs.  \n• In the Tab dialog box, set the tab stop, alignment and leading then OK.  \n• Press the Tab key to increase or the spacebar to decrease the indent, \nalternatively, click the Increase/Decrease indent buttons on th e formatting \ntoolbar.  \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "paragraph that occupies more than one line down. \n19) To create a dropped cap:  \n• Highlight the paragraph you want to begin with drop cap.  \n• On Format menu, click Drop cap.  \n• Click Dropped or In Margin.  \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "Mail Merge.  \nA mail merge is a tool that aids the users create one document and be able to send it  \nmerge it to a multiple of recipients.  \n• To Start a Mall Merge: Select mailings —>Mailings, start mail merge —> you can \nselect from the dialog box an option i.e. ―start a step by step mail merge‖  or you \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "mail merge wizard.  \n• To Select a Data Source: In the Mail Merge task pane, select the appropriate \noption under Create recipient list and click next. Perform the necessary tasks and \nclick next when you‘re finished.  \n• To Insert a Merge Field: In the Mail Merge task pane, click and drag the \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "Uppercase. \n(ii) Center and bold the heading, underline it and change \nthe font size to 16 points. \n(iii) Change the line spacing for the entire text to 1.5. \n  (c) Add a graphic page border to page two only. \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "text border of 3 lines and 3points to the heading. \n  (e) Make the background of the heading orange and the rest of \n   the text blue. \n  (f) Highlight the source of the document with a yellow colour. \n(g) Save your work as your name on the desktop. \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "uppercase and underline it \n(ii) Correct any misspelled word(s) in the document. \n(iii) Replace the fee of shillings 30,000 by shillings 40,000 \n(iv) Add your name and index number as a footer \n(v) Save the document as “My work2” \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "font size 48.                                       (02 marks) \n(iv)  Format the text in three columns except the heading.  \n        (02 marks) \n(v)  Justify the text.               (01 mark) \n(vi)  Put a 6pt border around the page.                           (02 marks) \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "font size to 14pt.           (02 marks) \n(vii)  Insert a diagonal watermark of your name.         (02 marks) \n(ix)  Insert a centered page number X of Y e.g. Page 1 of 2.  \n        (02 marks) \n(x)  Save and print your work.                                        (01 mark) \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "table word proces sing software, type this document as it is.\n           (06marks) \n TUBERLOSIS (TB) IN AIDS \nThe global war on AIDS could be lost if the world ignores tuberculosis, often \na death sentence for people infected with HIV, former South African President Nelson \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "bold and underline the heading and make it\n font size 24.                                  (3marks) \n (iv) Centre align the third paragraph and make it all italics                 (2marks)\n  \n (v) Italicise the source of this document and make it font size 8.     (2marks) \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "font size 14, capitalize, bold and underline the title    (04 marks) \n(iv) Apply font colour blue in the first paragraph   (02marks) \n(v) Add a drop cap to Don’t in the second paragraph             (02 marks) \n(vi) Save the document in your name and index number  (01 mark) \n(vii) Print your work       (01 mark) \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "Insert a page break below the last paragraph.      (01mark)  \n(g) On Page 2, use a table of 7 Rows and 3 Columns to design your class \ntime table.          (02marks)\n  \n(h) Modify the table in (g) and make it appear like the one below.    (03marks)\n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "Insert a header of your name and personal number  (01mkark)\n  \n(h) Save and print your work      (01mkark) \n \nQn. 7. Using a suitable word processor, create the following table of information belonging \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "table onto the next page                  (01mark) \n(c) Sort the records in the table in descending order of Salary.     (01mark) \n(d) Italicize the column headings and change them to font size 15.   (02marks) \n(e) (i) Add a row at the bottom of the table \n (ii) Use in-built formulae to find the average age and Total Salary  \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "Insert a row at the top of the table and insert a suitable heading         (02marks) \n (h) Align your table in the centre of the page                  (01mark) \n (i) Insert a header containing your name and personal number in Capital letters  \n                        (02marks) \n (j) Save and print your work.        (01 mark) \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "insert a suitable title for your table.    (02marks) \n  (iii) Enter any four other records in the table with names form your school. \n             (02marks) \n  (iv) Centre all the table content       (02marks) \n  (v) Copy the new table to two other pages and insert page numbers at the\n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "Insert another row to represent the title as      \n“FOOD AND NUTRITION TEST II             (04 marks) \n(iv) Merge the cells and center the title    (02marks) \n(v) Align all the records in the center                         (02 marks) \n(vi) Save your work as „my table‟               (01 mark) \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "line spacing on each paragraph          (02marks) \n(iv) Put a spacing of 3pts before and after each paragraph        (02marks) \n(v) Apply a heading 1 style to the subject for the letter with font size of 15.5 pts \n and dashed underline.                    (02marks) \n(vi) Insert a printed water mark of both of your names and save the changes. \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "table above and save it as ICT – SCHOOLS.               (03marks) \n(viii) Use the suitable word processing feature to merge the table to the letter in \norder to generate individual letters to various schools.               (03marks) \n(ix) Save the resulting file in your folder as School-ICT-letters.             (01marks) \n(x) Print your letters.                      (01marks) \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "Insert a suitable heading for the document. Center and underline \nthe heading.               (04 marks) \n(iv) Drop Cap the first paragraph.            (02 marks) \n(v) Italicize the last sentence               (01 mark) \n(vi) Insert a header of your name and personal number.           (01 mark) \n"
+    },
+    {
+      "file": "Word Practical Basics Practical Questions.pdf",
+      "text": "insert: “Quality Chemicals” in bold, font size 16, font \nstyle, Arial and centered.             (02 marks) \n \n(iii) In Part B insert: “Acids” in bold italics, font size 14, font style, \nTimes New Roman.           (02 marks) \n"
+    },
+    {
+      "file": "Word, Excel, PowerPoint & Access Pratical Question Paper.pdf",
+      "text": "formatting features underline, boldface and \nchange the font. \n2. Enter a list of at least 10 things you have to do this week. Select the list and turn on \nNumbering. Select the list again and turn on Bullets.  \n3. Select the same list change the bullet character to some symbols. \n"
+    },
+    {
+      "file": "Word, Excel, PowerPoint & Access Pratical Question Paper.pdf",
+      "text": "Find & Replace All, replace the word student in the \ndocument with citizen \n5. Take any document check for spelling and grammar. \n6. Write letter to HR Managers of five different companies requesting them to allow you to \ndo a summer project in their companies using Mail Merge. \n"
+    },
+    {
+      "file": "Word, Excel, PowerPoint & Access Pratical Question Paper.pdf",
+      "text": "paragraphs of text. Select the text and convert it \ninto two columns. Balance the column length. Add a line between the columns, also add a \ntitle that spans both the columns. \n10. Create a Table Student using Table Handling feature, include five columns and five rows \ntaking your own data.      \n"
+    },
+    {
+      "file": "Word, Excel, PowerPoint & Access Pratical Question Paper.pdf",
+      "text": "table create the following \ni) delete a row and a column \nii) insert a row and a column. \n12.Using Student table apply auto formatting. \n13. Create any document and use suffixes and prefixes, insert currency symbols etc.  \n\n"
+    },
+    {
+      "file": "Word, Excel, PowerPoint & Access Pratical Question Paper.pdf",
+      "text": "table find Maximum and Minimum marks in columns mark1, mark2, mark3, \nmark4 and total. \n18. Prepare a worksheet showing employee code, employee name and designation of the \nsoftware engineers working in a company XYZ. The employee code starts with increments \nby one for engineer and ends with 1007. Use series fill option and fill code. Also insert \n"
+    },
+    {
+      "file": "Word, Excel, PowerPoint & Access Pratical Question Paper.pdf",
+      "text": "table find the average (or mean) salary, count of employees getting less than \naverage salary. \n21.  create a bar graph for the  above data \n22. Create an exploded pie chart with 3-D visual effect using above data. \n23. Create a column chart of employees Net Pay. \n"
+    },
+    {
+      "file": "Word, Excel, PowerPoint & Access Pratical Question Paper.pdf",
+      "text": "insert a clip Art on a single slide and then re colour the single \nslide. \n33. Create a presentation – insert a table from MS-WORD. \n34. In a presentation – insert a sound file and replay. \n35. In an existing presentation – select one or more slides – apply a new transition, change the \n"
+    },
+    {
+      "file": "Word, Excel, PowerPoint & Access Pratical Question Paper.pdf",
+      "text": "table from an existing database and create tabular and datasheet auto forms. \n43. Select employee table arrange the data in descending order of DOB using Sort. \n44. Create a database Hardware mart and table spares with the following structure  \nItems Price per unit Qty Total cost \nLaptops 15,000 5  \n"
+    },
+    {
+      "file": "Word, Excel, PowerPoint & Access Pratical Question Paper.pdf",
+      "text": "tables \nPersonal(Empno, name, Dob, address, City, state, email, phone) \nBusiness( Empno, date of joining, Dept.id, designation) \nDepartment(Deptid, Name, Description) \ni) Define Primary and Foreign keys for the above table \n"
+    }
+  ],
+  "pdf_exercises": [],
+  "tables": [
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "NAME GENDER CA 01 CA 02 CA 03 CA 04 CA 05 \nJones F 12 26 10 30 25 \nAnderson M 30 21 30 10 30 \nWilliams M 21 30 21 10 25 \nJeanson F 30 12 9 11 24 \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "gross pay \n Net pay = Gross pay – Tax deductions \nWrite the functions using cell references for the following cells:  [5 \nmarks] \n \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "NAME GENDER CSC 122 CSC 124 CSC 109 CSC 132 CSC 111 \nJones F 19 26 10 30 23 \nAnderson M 30 23 33 10 30 \nWilliams M 21 30 21 10 25 \nJeanson F 30 12 9 11 24 \n"
+    },
+    {
+      "file": "Computer Practicals Word, Excel, Access.pdf",
+      "text": "Gross pay = Basic Pay + Hse All + Transport All + \nBonus e.) NHIF is deducted at the rate of 120 to all the \nemployees f.) NSSF is deducted at the rate of 200 from \neach employee g.) Net Pay = Gross pay – NHIF – NSSF \n \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "gross pay.       \n(vi) PAYE is 2.5% of basic salary.       \n(vii) National social security fund is calculated at 18% of gross pay.   \n(viii) Compute the employees‘ net pay.       \n(ix) Plot a line graph of net pay against basic salary in worksheet 2.   \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "Gross pay.  \nd) Net pay.  \ne) Analyze the employees‘ wage with a siiitab1e chat.  \nf) Save your work in your folder and also make a printout.  \n \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "Gross Pay, PAYE is 30% of the Taxable amount; NSSF is 5% of the \nGross pay. Compute the Gross pay, Taxable amount, PAYE, NSSF and Net \npay.  \nd. Insert the following records after Omoding and compute the relevant entries  \ne. Delete the record for lowery from the worksheet  \n"
+    },
+    {
+      "file": "ICT-COMPUTER-STUDIES-BOOK-PRACTICAL-GUIDE.pdf",
+      "text": "Name  \n \nGender Title Sales \nrevenue \nCost of goods sold \nU12201 Ham Male  W.seller 12,000 9,500 \nU15421  Beth  Male  Retailer  8,500  6,100  \n"
+    },
+    {
+      "file": "Word, Excel, PowerPoint & Access Pratical Question Paper.pdf",
+      "text": "Gross Pay is Basic + HRA+TA-Deductions \nTax is 30% of Gross Pay \nNet Pay is Gross Pay –Tax \n20. In above table find the average (or mean) salary, count of employees getting less than \naverage salary. \n"
+    }
+  ],
+  "workplace_scenarios": []
+}

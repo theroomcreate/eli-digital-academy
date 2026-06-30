@@ -1,0 +1,67 @@
+{
+  "title": "Creating a Company Letterhead",
+  "moduleTitle": "Microsoft Word Projects",
+  "description": "Design a professional company letterhead that can be reused for all business correspondence, with watermarks and section breaks.",
+  "objectives": [
+    "Design a clean header with company details",
+    "Add a logo placeholder",
+    "Use colors and fonts that reflect brand identity",
+    "Save as a reusable template",
+    "Add watermarks and section breaks for different page layouts"
+  ],
+  "content": "<h2>What Is a Letterhead?</h2><p>A letterhead is the top section of a business document that displays the company name, logo, address, phone number, email, and website. It appears on every official letter, memo, and invoice. A well-designed letterhead builds trust and makes the company look established.</p><h2>Design Principles</h2><ul><li><strong>Keep it clean:</strong> Do not overcrowd the header. White space is your friend.</li><li><strong>Use one or two colors:</strong> A professional blue, green, or black is enough. Avoid bright colors.</li><li><strong>Make the company name prominent:</strong> It should be the largest or boldest text in the header.</li><li><strong>Include essential contact info:</strong> Address, phone, and email are standard.</li></ul><h2>Building It in Word</h2><p>Use the Header area (Insert > Header) so the letterhead appears automatically on every page. Insert a table if you want to align the logo and text side by side. Add a subtle bottom border to separate the header from the body text. Save the file as a Word Template (.dotx) so you can reuse it for every new letter.</p><h2>Watermarks and Section Breaks</h2><p>A watermark is a faint image or text that appears behind the document content, often used for 'CONFIDENTIAL' or 'DRAFT' markings. Go to <strong>Design > Watermark</strong> to choose a preset or create a custom one. Section breaks let you have different headers, footers, or page layouts on different pages. For example, the first page might have a full letterhead while following pages have a simpler header. Go to <strong>Layout > Breaks > Next Page Section Break</strong> to start a new section.</p><h2>Workplace Scenario</h2><p>You need to create a letterhead for 'GreenLeaf Consulting.' You design the header with the company name in bold, a teal accent color, and contact details below. You add a 'DRAFT' watermark on early versions. You use a section break so that only the first page has the full letterhead, and page 2 onwards has a simpler header with just the company name. You save this as a template (.dotx) so every new letter starts with the correct formatting.</p>",
+  "downloads": [
+    {
+      "title": "Letterhead Template",
+      "description": "A customizable Word letterhead template",
+      "url": "resources/templates/letterhead.docx"
+    }
+  ],
+  "exercise": "Design a letterhead for a fictional company called 'GreenLeaf Consulting' in Word. Include the company name, address (123 Main Street, Cape Town), phone number, email, and a logo placeholder. Use a teal accent color. Add a 'CONFIDENTIAL' watermark. Use a section break so only the first page has the full letterhead. Save as a Word Template (.dotx).",
+  "quiz": [
+    {
+      "question": "Where should you place the letterhead so it appears on every page?",
+      "options": [
+        "In the body text",
+        "In the footer",
+        "In the header",
+        "As a watermark"
+      ],
+      "correct": 2,
+      "explanation": "The header area repeats automatically on every page of the document."
+    },
+    {
+      "question": "What is the best file format to save a letterhead for reuse?",
+      "options": [
+        ".pdf",
+        ".txt",
+        ".dotx (Word Template)",
+        ".jpg"
+      ],
+      "correct": 2,
+      "explanation": "A Word Template (.dotx) lets you create new documents with the letterhead already in place."
+    },
+    {
+      "question": "Which color choice is most appropriate for a professional letterhead?",
+      "options": [
+        "Bright neon pink",
+        "Black, blue, or dark green",
+        "Rainbow gradient",
+        "Red and yellow flames"
+      ],
+      "correct": 1,
+      "explanation": "Conservative, professional colors like black, blue, or dark green convey trust and professionalism."
+    },
+    {
+      "question": "What is the purpose of a section break in a letter?",
+      "options": [
+        "To delete a page",
+        "To apply different headers or layouts on different pages",
+        "To add a table",
+        "To change the font size"
+      ],
+      "correct": 1,
+      "explanation": "Section breaks allow different headers, footers, and page layouts within the same document."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Creating a Professional Invoice",
+  "moduleTitle": "Workplace Projects",
+  "description": "Design a clean, professional invoice in Excel that calculates totals, taxes, and the amount due automatically.",
+  "objectives": [
+    "Build an invoice with company and client details",
+    "Add line items with quantity, rate, and total",
+    "Calculate subtotal, tax, and final amount with formulas",
+    "Format the invoice for printing and PDF export",
+    "Use a unique invoice numbering system"
+  ],
+  "content": "<h2>Invoices Are Legal Documents</h2><p>An invoice is a formal request for payment. It must include specific information: who is billing, who is being billed, what was provided, how much it costs, and when payment is due. A well-designed invoice builds trust and makes payment faster.</p><h2>Invoice Structure</h2><p>At the top, include your company name, address, and contact information. Below that, add the client name and address. Include an invoice number and date. The invoice number should be unique, like INV-2024-001, so you can track payments.</p><h2>Line Items</h2><p>Use a table with columns for Description, Quantity, Rate, and Amount. The Amount column should contain a formula: <code>=Quantity * Rate</code>. For example, if Quantity is in C5 and Rate is in D5, the formula is <code>=C5*D5</code>. This means when you change a quantity or rate, the amount updates automatically.</p><h2>Totals and Tax</h2><p>Below the line items, add a Subtotal row using SUM. Add a Tax row using a formula like <code>=Subtotal * 0.15</code> for 15% tax. Add a Total Due row that adds Subtotal and Tax. Format the Total Due in bold with a larger font size so it stands out.</p><h2>Final Touches</h2><p>Add payment terms like 'Payment due within 30 days.' Include your bank details or payment instructions at the bottom. Save the invoice as a template so you can reuse it. Always send the final invoice as a PDF to prevent editing.</p>",
+  "downloads": [
+    {
+      "title": "Invoice Template",
+      "description": "A professional Excel invoice with formulas",
+      "url": "resources/templates/invoice.xlsx"
+    }
+  ],
+  "exercise": "Create a professional invoice in Excel for a fictional company called 'BrightTech Consulting.' Bill a client for three services: Consultation (5 hours at $100/hour), Report Writing (3 hours at $80/hour), and Travel (1 flat fee of $150). Calculate subtotal, add 15% tax, and show the total due. Format for printing and export as PDF.",
+  "quiz": [
+    {
+      "question": "Why should the Amount column in an invoice use a formula?",
+      "options": [
+        "It looks more professional",
+        "It updates automatically when quantity or rate changes, preventing errors",
+        "It is required by Excel",
+        "It makes the file smaller"
+      ],
+      "correct": 1,
+      "explanation": "A formula ensures the amount is always correct, even if you change quantities or rates later."
+    },
+    {
+      "question": "What is the purpose of a unique invoice number?",
+      "options": [
+        "To make the invoice colorful",
+        "To track payments and keep records organized",
+        "To confuse the client",
+        "To increase the total amount"
+      ],
+      "correct": 1,
+      "explanation": "A unique invoice number lets you and your client track which payment belongs to which invoice, avoiding confusion."
+    },
+    {
+      "question": "Which format should you use when sending a completed invoice to a client?",
+      "options": [
+        ".xlsx so they can edit it",
+        ".pdf to prevent changes and present professionally",
+        ".txt for simplicity",
+        ".jpg for images"
+      ],
+      "correct": 1,
+      "explanation": "A PDF preserves the layout and prevents the client from accidentally changing the invoice details."
+    },
+    {
+      "question": "If the subtotal is 500 and tax is 15%, what is the total due?",
+      "options": [
+        "500",
+        "515",
+        "575",
+        "600"
+      ],
+      "correct": 2,
+      "explanation": "500 + (500 × 0.15) = 500 + 75 = 575."
+    }
+  ]
+}

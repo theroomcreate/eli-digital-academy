@@ -1,0 +1,203 @@
+
+--- PAGE 1 ---
+OSMANIA UNIVERSITY 
+FACULTY OF BUSINESS MANAGEMENT 
+Computer Lab – Practical Question Bank 
+Information Technology 
+Time: 60 Minutes                                                                                                                Record          :  10 
+                                                                                                                                                Skill Test       :  20 
+                                                                                                                                                Total Marks  : 30     
+MS-WORD 
+1. Create a document with a heading and using formatting features underline, boldface and 
+change the font. 
+2. Enter a list of at least 10 things you have to do this week. Select the list and turn on 
+Numbering. Select the list again and turn on Bullets.  
+3. Select the same list change the bullet character to some symbols. 
+4. Create a document on student using Find & Replace All, replace the word student in the 
+document with citizen 
+5. Take any document check for spelling and grammar. 
+6. Write letter to HR Managers of five different companies requesting them to allow you to 
+do a summer project in their companies using Mail Merge. 
+7. Create and print an envelope with your return address. 
+8. Type a letter and create an envelope for it that you add to your document. Preview it in 
+Print Preview. 
+9. Create a document that contains several paragraphs of text. Select the text and convert it 
+into two columns. Balance the column length. Add a line between the columns, also add a 
+title that spans both the columns. 
+10. Create a Table Student using Table Handling feature, include five columns and five rows 
+taking your own data.      
+11. Select any table create the following 
+i) delete a row and a column 
+ii) insert a row and a column. 
+12.Using Student table apply auto formatting. 
+13. Create any document and use suffixes and prefixes, insert currency symbols etc.  
+
+--- PAGE 2 ---
+MS-EXCEL 
+14. Create a worksheet named Patient to include the following 
+Patient 
+No  
+ 
+Patient  
+Name 
+In-Patient or 
+Out-Patient 
+Doctor 
+attended 
+Date 
+ 
+Add 5 rows . 
+15. Create a worksheet with the days of the week at the top and time from 9.00 
+ To 17.00 in intervals of 30 minutes (9.00, 9.30, 10.00,,,,,,,,,,,,,,,,,,, 17.00) use Auto fill feature 
+to create this worksheet 
+16.  Create the following Student worksheet  
+SNo Name Mark1 Marks2 Mark3 Mark4 Mark5 Total 
+        
+ 
+Using Auto Sum calculate the total marks. 
+17. In above table find Maximum and Minimum marks in columns mark1, mark2, mark3, 
+mark4 and total. 
+18. Prepare a worksheet showing employee code, employee name and designation of the 
+software engineers working in a company XYZ. The employee code starts with increments 
+by one for engineer and ends with 1007. Use series fill option and fill code. Also insert 
+today’s date on the top of the worksheet.  
+19. Select student worksheet, sort the data in the descending order of total using sort option. 
+Using filter option, filter irrelevant data. 
+Create the following worksheet Salary (Enter at least 5 records) 
+Name Basic HRA TA Deductions Gross 
+Pay 
+Tax Net Pay 
+        
+ 
+Calculations are done as follows: 
+HRA - 50% of Basic; TA – 10% of Basic;   
+
+--- PAGE 3 ---
+Assume your deductions 
+Gross Pay is Basic + HRA+TA-Deductions 
+Tax is 30% of Gross Pay 
+Net Pay is Gross Pay –Tax 
+20. In above table find the average (or mean) salary, count of employees getting less than 
+average salary. 
+21.  create a bar graph for the  above data 
+22. Create an exploded pie chart with 3-D visual effect using above data. 
+23. Create a column chart of employees Net Pay. 
+24. Create the following worksheet that shows the number of planes arriving in an airport in 
+the morning (AM) arrivals and  in the afternoon (PM ). 
+Day AM Arrivals  PM Arrivals 
+Monday         80        40 
+Tuesday         65         45 
+Wednesday         50         75 
+Thursday         58         60 
+Friday        150 80 
+Saturday          40 68 
+Sunday          30         100 
+ 
+ Prepare a line graph showing the daily arrivals for both AM and PM. 
+25. Prepare two pie charts showing the relative distribution of arrivals in the morning and the 
+afternoon.  
+26. Prepare a component bar chart showing the AM and PM arrivals versus the day of the 
+week. 
+MS-POWERPOINT 
+27. Create a Presentation with 5 slides about various events that take place in of your college. 
+28. Use Auto Content wizard to create a presentation of your choice and add a note to one of 
+the slides. 
+
+--- PAGE 4 ---
+29. Select any presentation having a number of slides, using slide sorter to change and view 
+the order of slides changed. 
+30. Create a presentation with at least 5 slides, change the colour scheme and change the fill 
+for a single scheme. 
+31. In a presentation – change the font and font colour, replace the body text font with 
+another font.  
+32. Create a presentation – insert a clip Art on a single slide and then re colour the single 
+slide. 
+33. Create a presentation – insert a table from MS-WORD. 
+34. In a presentation – insert a sound file and replay. 
+35. In an existing presentation – select one or more slides – apply a new transition, change the 
+speed of the transition. 
+36. In an existing presentation select one or more slides and apply preset animations from animation 
+affects. 
+37. In any existing presentation – hide one or more slides. 
+38. To any existing presentation apply custom animation. 
+MS-ACCESS 
+39. Create a database College and table student with following details  
+Student No Name Department Year of 
+Admission 
+Date of  
+Birth 
+Gender % Marks 
+       
+i) enter min 10 records  
+ii) Identify the primary key. 
+40. Create the above table using the design view. 
+41. Create a database Company and table employee with following details 
+Eno Name Designation Department Basic 
+Pay 
+Dob Appraised 
+(Yes/No) 
+       
+ i) Enter 5 Records  
+
+--- PAGE 5 ---
+ii)Display those employees who are appraised. 
+42. Select a table from an existing database and create tabular and datasheet auto forms. 
+43. Select employee table arrange the data in descending order of DOB using Sort. 
+44. Create a database Hardware mart and table spares with the following structure  
+Items Price per unit Qty Total cost 
+Laptops 15,000 5  
+Scanners 10,500 4  
+Servers 45,600 3  
+Printers 8,500 2  
+Windows 
+Software 
+2000 1  
+ 
+Do the following operations 
+i) Calculate the total cost and replace in field total cost. 
+ii) Sort the data using quantity 
+iii) Prepare report with title 
+45.  Create a database Book Store and table Books with the following details 
+Book no Title Author No of Copies 
+Available 
+Publisher Date of Publishing 
+      
+ 
+Perform the following queries 
+i) List the data author wise  
+ii) List Title, Author, Publisher, No of copies 
+iii) List all the books of a particular author 
+iv) Create a label of 4 lines title, author, publisher, date of publishing and no of copies 
+available. 
+
+--- PAGE 6 ---
+46. Create a sales man table in a data base business containing following fields 
+Sales Man 
+No 
+Name  Region 
+(N/S/E/W) 
+Target set Actual 
+     
+ 
+i) Calculate the difference between and actual and create a new field and enter the value. 
+ii) Create a report of the data. 
+47. In the above perform following queries 
+i) List those salesman who have achieved the target 
+ii) list sales for a particular region 
+iii) List name, region who have not achieved the target 
+48. Create   a database XYZ company containing the tables 
+Personal(Empno, name, Dob, address, City, state, email, phone) 
+Business( Empno, date of joining, Dept.id, designation) 
+Department(Deptid, Name, Description) 
+i) Define Primary and Foreign keys for the above table 
+49.  In above exercise  
+ i) Create Forms for all the tables and add data using forms 
+ii) Create Reports for all three tables. 
+50. In the above database modify the following 
+ i) Add the following fields 
+Personal ---- Country 
+Business ------ Salary 
+Department ----- Dept. Phone no, Email Id 
+ 
+ -------------------------------------End--------------------------------------- 
+  

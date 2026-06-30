@@ -1,0 +1,72 @@
+{
+  "title": "Mail Merge for Bulk Communication",
+  "moduleTitle": "Microsoft Word Projects",
+  "description": "Use Mail Merge to create personalized letters, invitations, and labels for multiple recipients efficiently.",
+  "objectives": [
+    "Create a data source with recipient information",
+    "Insert merge fields into a document",
+    "Preview and complete the merge",
+    "Print or email merged documents",
+    "Apply mail merge to real workplace scenarios like HR letters and event invitations"
+  ],
+  "content": "<h2>Why Mail Merge Matters</h2><p>Imagine you need to send salary letters to 50 employees, or invitation letters to 20 shareholders for the annual general meeting. Typing each letter individually would take hours and almost certainly lead to mistakes. Mail Merge lets you create one document and automatically personalize it for hundreds of recipients.</p><h2>How Mail Merge Works</h2><p>Mail Merge combines two things: a <strong>main document</strong> (the letter or email) and a <strong>data source</strong> (a list of names, addresses, and other details). Word inserts the correct details for each recipient automatically.</p><h2>Step-by-Step Process</h2><ol><li><strong>Create the main document:</strong> Type your letter. Where you want the recipient's name or address to appear, leave a placeholder.</li><li><strong>Start Mail Merge:</strong> Go to <strong>Mailings > Start Mail Merge</strong> and choose 'Letters' or 'E-mail Messages'.</li><li><strong>Select recipients:</strong> Go to <strong>Mailings > Select Recipients</strong> and choose 'Use an Existing List' (Excel or Word table) or 'Type a New List'.</li><li><strong>Insert merge fields:</strong> Click where you want a name or address, then go to <strong>Mailings > Insert Merge Field</strong> and choose the field (e.g., 'FirstName', 'Address').</li><li><strong>Preview results:</strong> Click <strong>Preview Results</strong> to see how the letter looks for each recipient.</li><li><strong>Complete the merge:</strong> Click <strong>Finish & Merge > Edit Individual Documents</strong> to create a separate letter for each recipient, or <strong>Print Documents</strong> to print directly.</li></ol><h2>Workplace Scenarios</h2><p><strong>Scenario 1 - HR Salary Letters:</strong> You are the HR assistant. At the end of every month, you must send personalized salary letters to all staff. You create a data source with columns: Name, EmployeeID, Department, GrossPay, Tax, NetPay. You create one letter template with merge fields, and Mail Merge generates all 50 letters in under two minutes.</p><p><strong>Scenario 2 - AGM Invitations:</strong> You are the secretary to Excel Supplies Ltd. The managing director asks you to invite eight shareholders to the annual general meeting on 10th June. You create a data source with Name, Address, Title, and School. You type one formal letter with merge fields, and Mail Merge creates personalized invitations for each shareholder.</p>",
+  "downloads": [
+    {
+      "title": "Mail Merge Data Source Template",
+      "description": "Excel template for mail merge recipient lists",
+      "url": "resources/templates/mail-merge-data.xlsx"
+    },
+    {
+      "title": "Mail Merge Guide",
+      "description": "Step-by-step guide to Mail Merge in Word",
+      "url": "resources/pdfs/mail-merge-guide.pdf"
+    }
+  ],
+  "exercise": "Create a data source in Word or Excel with 5 fictional recipients (Name, Address, City). Create a letter in Word inviting them to a 'Company Open Day' on 15 July 2024. Use Mail Merge to insert the Name and Address fields. Preview the results. Complete the merge and save the merged document as OpenDay_Invitations.docx.",
+  "quiz": [
+    {
+      "question": "What two things does Mail Merge combine?",
+      "options": [
+        "Two different fonts",
+        "A main document and a data source",
+        "Two computers",
+        "Two printers"
+      ],
+      "correct": 1,
+      "explanation": "Mail Merge combines a main document (the letter template) with a data source (the recipient list) to create personalized documents."
+    },
+    {
+      "question": "Which tab in Word contains the Mail Merge tools?",
+      "options": [
+        "Home",
+        "Insert",
+        "Mailings",
+        "Review"
+      ],
+      "correct": 2,
+      "explanation": "The Mailings tab contains all the tools for Mail Merge, including Start Mail Merge, Select Recipients, and Insert Merge Field."
+    },
+    {
+      "question": "Why is Mail Merge better than typing 50 letters individually?",
+      "options": [
+        "It uses more paper",
+        "It is faster and reduces errors",
+        "It requires more software",
+        "It only works for small lists"
+      ],
+      "correct": 1,
+      "explanation": "Mail Merge automates personalization, saving hours of work and reducing the risk of typos or wrong names."
+    },
+    {
+      "question": "What should you do before completing the merge?",
+      "options": [
+        "Delete the data source",
+        "Preview the results to check for errors",
+        "Print immediately",
+        "Close the document"
+      ],
+      "correct": 1,
+      "explanation": "Previewing results lets you verify that names, addresses, and other fields appear correctly before generating the final documents."
+    }
+  ]
+}

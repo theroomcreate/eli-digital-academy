@@ -1,0 +1,67 @@
+{
+  "title": "PDF Conversion Basics",
+  "moduleTitle": "Computer Foundations",
+  "description": "Learn how to convert documents to PDF and back, and how to combine multiple files into one PDF for easier sharing.",
+  "objectives": [
+    "Convert Word documents to PDF",
+    "Convert Excel spreadsheets to PDF",
+    "Understand how to combine multiple PDFs into one",
+    "Know when to convert and when to keep the original format",
+    "Use free online PDF tools for conversion"
+  ],
+  "content": "<h2>Converting Documents to PDF</h2><p>Most modern software can save or export directly to PDF. In Microsoft Word, go to <strong>File > Save As</strong> and choose PDF from the file type dropdown. In Excel, the same menu lets you export a spreadsheet to PDF, which is useful for sharing reports where you do not want the recipient to change the numbers.</p><h2>Why Convert Excel to PDF?</h2><p>Excel files contain formulas, hidden cells, and multiple sheets. If you send the raw Excel file, the recipient might accidentally delete a formula or see data you did not intend to share. A PDF report shows only the results in a clean, printable format. For collaborative work, send the Excel file. For final reports, send a PDF.</p><h2>Combining PDFs</h2><p>Often, you need to send multiple documents as one file. For example, a job application might include a CV, a cover letter, and references. Instead of sending three separate files, you can combine them into one PDF. Many free online tools and Adobe Acrobat allow you to merge PDFs by dragging pages together.</p><h2>Using Free Online PDF Tools</h2><p>When you do not have Adobe Acrobat installed, free online tools can handle most PDF tasks. Two reliable options are:</p><ul><li><strong>ilovepdf.com</strong> — Offers PDF to Word, Word to PDF, merge PDFs, split PDFs, compress PDFs, and more.</li><li><strong>smallpdf.com</strong> — Similar tools with a simple interface. Good for quick conversions on any device.</li></ul><p>Workplace scenario: A colleague sends you a scanned PDF of a contract, but you need to edit one paragraph. You go to ilovepdf.com, use the 'PDF to Word' tool, download the editable Word document, make your changes, and convert it back to PDF.</p><h2>Important Notes</h2><ul><li>Converting Word to PDF is usually one-way. You cannot easily convert a PDF back to a fully editable Word document.</li><li>Always keep the original file in its original format. The PDF is for sharing, the original is for editing.</li><li>When converting to PDF, check the preview to make sure tables and images fit on the page.</li><li>Be careful with confidential documents on free online tools. For sensitive files, use offline software or paid services.</li></ul>",
+  "downloads": [
+    {
+      "title": "PDF Conversion Checklist",
+      "description": "Steps to convert and combine PDFs correctly",
+      "url": "resources/pdfs/pdf-conversion-checklist.pdf"
+    }
+  ],
+  "exercise": "Create a Word document with a simple heading and two paragraphs. Save it as a PDF. Then create a simple Excel spreadsheet with three rows of data. Save it as a PDF. Practice switching between the original and PDF versions to see the differences. Then go to ilovepdf.com and try the 'Merge PDF' tool to combine the two PDFs into one document. Save the combined file as Combined_Document.pdf.",
+  "quiz": [
+    {
+      "question": "You are sharing a final budget report with your manager. Should you send the Excel file or a PDF?",
+      "options": [
+        "Excel file, because it has formulas",
+        "PDF, because it presents the final numbers cleanly and prevents edits",
+        "Both, because more files are better",
+        "Neither, print it instead"
+      ],
+      "correct": 1,
+      "explanation": "A PDF is better for final reports because it prevents accidental changes and presents the data in a clean, printable format."
+    },
+    {
+      "question": "Why should you keep the original Word or Excel file after converting to PDF?",
+      "options": [
+        "Because PDFs are temporary",
+        "Because you may need to make edits later",
+        "Because the original file is smaller",
+        "Because PDFs are not professional"
+      ],
+      "correct": 1,
+      "explanation": "PDFs are difficult to edit. Keeping the original allows you to make changes and generate a new PDF version later."
+    },
+    {
+      "question": "In Microsoft Word, where do you go to save a document as a PDF?",
+      "options": [
+        "File > Print",
+        "File > Save As > choose PDF",
+        "Edit > Copy",
+        "View > Zoom"
+      ],
+      "correct": 1,
+      "explanation": "File > Save As allows you to change the file type to PDF, which exports the document in the correct format."
+    },
+    {
+      "question": "Which free online tool can you use to convert a PDF to an editable Word document?",
+      "options": [
+        "Microsoft Excel",
+        "ilovepdf.com",
+        "Google Sheets",
+        "Microsoft Access"
+      ],
+      "correct": 1,
+      "explanation": "ilovepdf.com offers a free PDF to Word converter that creates an editable document from a PDF."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Tracking Business Expenses",
+  "moduleTitle": "Excel Foundations",
+  "description": "Build a simple expense tracker in Excel to monitor spending, categorize costs, and prepare for monthly reporting.",
+  "objectives": [
+    "Create a spreadsheet with clear headers",
+    "Enter and format currency values",
+    "Use basic sorting and filtering",
+    "Calculate total spending with AutoSum",
+    "Format numbers and dates consistently"
+  ],
+  "content": "<h2>Why Excel for Expenses?</h2><p>Excel is the most powerful tool for tracking numbers in the workplace. Unlike paper or basic calculators, Excel lets you sort, filter, and automatically calculate totals. An expense tracker helps you see where money is going, catch errors early, and prepare reports in minutes instead of hours.</p><h2>Building the Tracker</h2><p>Start with four column headers: Date, Category, Description, and Amount. Add rows for each expense. Use consistent categories like Travel, Office Supplies, Meals, and Software. This makes filtering and reporting much easier later.</p><h2>Formatting Tips</h2><ul><li><strong>Currency:</strong> Select the Amount column, then choose Currency format with two decimal places.</li><li><strong>Dates:</strong> Use a consistent date format (e.g., 2024-03-15) so Excel can sort them correctly.</li><li><strong>Headers:</strong> Make the header row bold and add a light background color so it stands out.</li><li><strong>Numbers:</strong> Format all numbers to the same decimal places for consistency. For example, format to 1 decimal place if your workplace standard requires it.</li></ul><h2>AutoSum</h2><p>At the bottom of the Amount column, click the empty cell below the last expense and press the AutoSum button (Σ). Excel will suggest the range to add. Press Enter, and the total appears instantly. If you add more rows later, simply update the sum range.</p><h2>Monthly Expenditure Table Example</h2><table style='width:100%;border-collapse:collapse;border:1px solid var(--color-border);'><thead><tr style='background:var(--color-bg);'><th style='padding:10px;border:1px solid var(--color-border);'>Month</th><th style='padding:10px;border:1px solid var(--color-border);'>Rent</th><th style='padding:10px;border:1px solid var(--color-border);'>Salaries</th><th style='padding:10px;border:1px solid var(--color-border);'>Utilities</th><th style='padding:10px;border:1px solid var(--color-border);'>Supplies</th><th style='padding:10px;border:1px solid var(--color-border);'>Total</th></tr></thead><tbody><tr><td style='padding:10px;border:1px solid var(--color-border);'>Jan</td><td style='padding:10px;border:1px solid var(--color-border);'>50,000</td><td style='padding:10px;border:1px solid var(--color-border);'>80,000</td><td style='padding:10px;border:1px solid var(--color-border);'>20,000</td><td style='padding:10px;border:1px solid var(--color-border);'>15,000</td><td style='padding:10px;border:1px solid var(--color-border);'>165,000</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>Feb</td><td style='padding:10px;border:1px solid var(--color-border);'>50,000</td><td style='padding:10px;border:1px solid var(--color-border);'>80,000</td><td style='padding:10px;border:1px solid var(--color-border);'>18,000</td><td style='padding:10px;border:1px solid var(--color-border);'>12,000</td><td style='padding:10px;border:1px solid var(--color-border);'>160,000</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>Mar</td><td style='padding:10px;border:1px solid var(--color-border);'>50,000</td><td style='padding:10px;border:1px solid var(--color-border);'>85,000</td><td style='padding:10px;border:1px solid var(--color-border);'>22,000</td><td style='padding:10px;border:1px solid var(--color-border);'>20,000</td><td style='padding:10px;border:1px solid var(--color-border);'>177,000</td></tr></tbody></table>",
+  "downloads": [
+    {
+      "title": "Expense Tracker Template",
+      "description": "A ready-to-use Excel expense tracker",
+      "url": "resources/templates/expense-tracker.xlsx"
+    }
+  ],
+  "exercise": "Create an Excel spreadsheet with columns: Date, Category, Description, Amount. Enter ten sample expenses from a fictional business trip. Format the Amount column as currency. Add an AutoSum at the bottom. Sort by Category and then by Date. Format all numbers to 1 decimal place. Save the file.",
+  "quiz": [
+    {
+      "question": "Which Excel feature automatically calculates the total of a column?",
+      "options": [
+        "Sort",
+        "Filter",
+        "AutoSum",
+        "Bold"
+      ],
+      "correct": 2,
+      "explanation": "AutoSum (Σ) quickly adds up a range of numbers and inserts the SUM formula automatically."
+    },
+    {
+      "question": "Why should you use consistent categories in an expense tracker?",
+      "options": [
+        "To make the file smaller",
+        "To make filtering and reporting easier",
+        "Because Excel requires it",
+        "To add colors"
+      ],
+      "correct": 1,
+      "explanation": "Consistent categories let you filter by type and create summaries, like 'Total spent on Travel.'"
+    },
+    {
+      "question": "What format should you apply to the Amount column?",
+      "options": [
+        "Text",
+        "Date",
+        "Currency",
+        "Percentage"
+      ],
+      "correct": 2,
+      "explanation": "Currency format displays values with a currency symbol and two decimal places, which is correct for money."
+    },
+    {
+      "question": "Why should you format numbers to the same decimal places?",
+      "options": [
+        "To make them look random",
+        "To maintain consistency and professionalism",
+        "To hide errors",
+        "To make the file larger"
+      ],
+      "correct": 1,
+      "explanation": "Consistent number formatting makes the spreadsheet look professional and ensures accurate calculations."
+    }
+  ]
+}

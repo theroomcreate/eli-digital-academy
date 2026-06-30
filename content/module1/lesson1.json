@@ -1,0 +1,67 @@
+{
+  "title": "Understanding Files and Folders",
+  "moduleTitle": "Computer Foundations",
+  "description": "Learn how files and folders work in a real workplace environment so you can find, organize, and share documents efficiently.",
+  "objectives": [
+    "Understand how files and folders are structured on a computer",
+    "Navigate to common workplace document locations",
+    "Create and name folders using workplace naming conventions",
+    "Recognize the difference between local storage and shared drives",
+    "Apply housekeeping routines to keep documents organized"
+  ],
+  "content": "<h2>Why Files and Folders Matter at Work</h2><p>In every office, documents are the lifeblood of operations. Whether it's a client contract, a meeting agenda, or a budget spreadsheet, everything lives somewhere on a computer. Knowing how to find, organize, and save files is one of the most essential digital skills you can have.</p><h2>What Is a File?</h2><p>A file is a single piece of digital information. It could be a Word document, a PDF, an image, or a spreadsheet. Every file has a name and an extension (like .docx or .pdf) that tells the computer what type of file it is.</p><h2>What Is a Folder?</h2><p>A folder is like a drawer in a filing cabinet. It holds files and other folders. In the workplace, folders are used to organize projects, clients, departments, and years. A well-organized folder structure saves hours of searching every week.</p><h2>Workplace Scenario</h2><p>Imagine you work at a small marketing agency. Your manager asks you to find the invoice from March 2024 for a client called BrightTech. If the files are scattered randomly on the desktop, you might spend 20 minutes searching. But if there is a clear folder structure like <strong>Clients > BrightTech > 2024 > Invoices</strong>, you can find it in seconds.</p><h2>Housekeeping: The Foundation of Professional File Management</h2><p>Housekeeping is a very important part of digital work. In order to ensure an efficient system, it is important to establish and maintain reliable routines for the storage of information. This includes ensuring that the correct storage has taken place, that documents and files can be retrieved easily when required, and generally tidying up so that old documents which are no longer required are deleted to make space for new work. It also means making extra copies of documents in case of damage or loss.</p><p>The housekeeping functions cover such things as:</p><ul><li>Formatting and organizing discs and drives</li><li>Backing up documents regularly</li><li>Disc storage and cleanup</li><li>Deleting or erasing old documents</li><li>Copying documents to shared locations</li><li>Indexing of documents and folders</li><li>Archiving — long-term, offline storage</li><li>Security — identity/access codes and passwords</li><li>System maintenance</li></ul><p>Usually one person will be made responsible for the housekeeping function and will control and coordinate all the facilities involved. This person may well be the supervisor of the administrative unit.</p><h2>Best Practices</h2><ul><li>Use clear, descriptive names (e.g., <em>2024-03_BrightTech_Invoice</em> not <em>doc1</em>)</li><li>Avoid spaces in file names when sharing online; use underscores or hyphens</li><li>Create a consistent folder structure and stick to it</li><li>Always save to the correct folder immediately, not the desktop</li><li>Perform regular housekeeping: delete old drafts, archive completed projects, and back up critical files</li></ul>",
+  "downloads": [
+    {
+      "title": "Folder Structure Template",
+      "description": "A suggested folder structure for administrative work",
+      "url": "resources/templates/folder-structure.pdf"
+    }
+  ],
+  "exercise": "Create a folder on your computer named ELI_Practice. Inside it, create three folders: Clients, Finance, and Meetings. Create two subfolders inside Clients: Active and Archived. Save a blank Word document in the Active folder with the name Practice_Client_Notes.docx. Then perform a housekeeping check: delete any temporary files, ensure your folder names are clear, and create a backup copy of the ELI_Practice folder on a USB drive or cloud storage.",
+  "quiz": [
+    {
+      "question": "Why is a clear folder structure important in a workplace?",
+      "options": [
+        "It makes the computer run faster",
+        "It helps team members find files quickly",
+        "It uses less storage space",
+        "It is required by law"
+      ],
+      "correct": 1,
+      "explanation": "A clear folder structure saves time and reduces errors when multiple people need to access shared documents."
+    },
+    {
+      "question": "Which of these is a good file name for an invoice?",
+      "options": [
+        "doc1.docx",
+        "2024-03_BrightTech_Invoice.pdf",
+        "Invoice FINAL FINAL v2.docx",
+        "New Folder (3)/invoice"
+      ],
+      "correct": 1,
+      "explanation": "Descriptive names with dates and client names make files easy to find and sort."
+    },
+    {
+      "question": "What is the best place to save a new work document?",
+      "options": [
+        "The desktop for easy access",
+        "The correct project folder immediately",
+        "A USB drive only",
+        "An email draft"
+      ],
+      "correct": 1,
+      "explanation": "Saving to the correct folder immediately keeps everything organized and accessible to the team."
+    },
+    {
+      "question": "What does 'housekeeping' mean in file management?",
+      "options": [
+        "Cleaning the office floor",
+        "Regular routines for organizing, backing up, and deleting old files",
+        "Buying new computers",
+        "Installing antivirus software"
+      ],
+      "correct": 1,
+      "explanation": "Housekeeping refers to the regular maintenance of your digital files: organizing, backing up, archiving, and deleting outdated documents."
+    }
+  ]
+}

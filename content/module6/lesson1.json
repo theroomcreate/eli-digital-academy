@@ -1,0 +1,55 @@
+{
+  "title": "Calculating Monthly Totals with SUM",
+  "moduleTitle": "Excel Functions",
+  "description": "Learn to use the SUM function to calculate totals for monthly reports, budgets, and expense tracking.",
+  "objectives": [
+    "Use the SUM function correctly",
+    "Sum ranges across multiple columns",
+    "Use SUMIF to total specific categories",
+    "Understand formula basics and cell references"
+  ],
+  "content": "<h2>Formulas Make Excel Powerful</h2><p>Excel formulas turn a static list of numbers into a dynamic tool. When you change a value, the total updates automatically. The SUM function is the most common formula in the workplace. It is used in budgets, payroll, sales reports, and inventory sheets every day.</p><h2>Using SUM</h2><p>Type <code>=SUM(B2:B10)</code> in a cell to add all numbers from B2 to B10. You can also click the AutoSum button and Excel will suggest the range. If you add a new row inside the range, Excel automatically includes it. If you add a row outside, you need to update the formula.</p><h2>SUMIF for Category Totals</h2><p>What if you want to see only the total for 'Travel' expenses, not all expenses? Use SUMIF. The formula looks like this: <code>=SUMIF(C2:C50, 'Travel', D2:D50)</code>. This means: look in column C for the word 'Travel', and add the matching values from column D. This is how you build category reports in seconds.</p><h2>Cell References</h2><p>There are two types of cell references. <strong>Relative references</strong> (like B2) change when you copy the formula to a new row. <strong>Absolute references</strong> (like $B$2) stay the same. For a budget template where you always want to reference a tax rate in cell B2, use $B$2 so it does not shift when copied down.</p>",
+  "downloads": [
+    {
+      "title": "SUM Formula Cheat Sheet",
+      "description": "Quick reference for SUM and SUMIF",
+      "url": "resources/pdfs/sum-cheat-sheet.pdf"
+    }
+  ],
+  "exercise": "In an Excel spreadsheet with expenses in column D and categories in column C, write three SUMIF formulas to calculate totals for 'Travel', 'Meals', and 'Office Supplies' separately. Add a SUM formula for the grand total. Test by changing one value and watching the totals update.",
+  "quiz": [
+    {
+      "question": "What does the formula =SUM(B2:B10) do?",
+      "options": [
+        "It multiplies the numbers",
+        "It adds all numbers from B2 to B10",
+        "It finds the highest number",
+        "It counts the cells"
+      ],
+      "correct": 1,
+      "explanation": "SUM adds all the numbers in the specified range and displays the total."
+    },
+    {
+      "question": "Which function lets you add only rows that match a specific category?",
+      "options": [
+        "SUM",
+        "AVERAGE",
+        "SUMIF",
+        "COUNT"
+      ],
+      "correct": 2,
+      "explanation": "SUMIF adds values only when a condition is met, such as a specific category name."
+    },
+    {
+      "question": "What is the difference between B2 and $B$2 in a formula?",
+      "options": [
+        "There is no difference",
+        "B2 is relative and changes when copied; $B$2 is absolute and stays fixed",
+        "$B$2 is a typo",
+        "B2 is only for text"
+      ],
+      "correct": 1,
+      "explanation": "Relative references shift when copied. Absolute references (with $ signs) stay locked on the same cell."
+    }
+  ]
+}

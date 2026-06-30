@@ -1,0 +1,67 @@
+{
+  "title": "Creating Charts and Visual Reports",
+  "moduleTitle": "Excel Foundations",
+  "description": "Turn spreadsheet data into visual charts that communicate clearly to managers and colleagues.",
+  "objectives": [
+    "Create column, pie, line, and bar charts",
+    "Add chart titles, legends, and data labels",
+    "Choose the right chart type for the data",
+    "Format charts for professional presentation",
+    "Insert charts into reports and presentations"
+  ],
+  "content": "<h2>Why Charts Matter</h2><p>Numbers in a spreadsheet are hard to read. A chart turns those numbers into a picture that anyone can understand in seconds. Managers use charts to make decisions. Clients use charts to see progress. As an administrative professional, your ability to create clear charts makes you more valuable.</p><h2>Choosing the Right Chart</h2><table style='width:100%;border-collapse:collapse;border:1px solid var(--color-border);'><thead><tr style='background:var(--color-bg);'><th style='padding:10px;border:1px solid var(--color-border);'>Chart Type</th><th style='padding:10px;border:1px solid var(--color-border);'>Best For</th><th style='padding:10px;border:1px solid var(--color-border);'>Example</th></tr></thead><tbody><tr><td style='padding:10px;border:1px solid var(--color-border);'>Column / Bar</td><td style='padding:10px;border:1px solid var(--color-border);'>Comparing values across categories</td><td style='padding:10px;border:1px solid var(--color-border);'>Sales by month</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>Pie</td><td style='padding:10px;border:1px solid var(--color-border);'>Showing parts of a whole</td><td style='padding:10px;border:1px solid var(--color-border);'>Budget allocation by category</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>Line</td><td style='padding:10px;border:1px solid var(--color-border);'>Showing trends over time</td><td style='padding:10px;border:1px solid var(--color-border);'>Website visitors per month</td></tr><tr><td style='padding:10px;border:1px solid var(--color-border);'>3D Column</td><td style='padding:10px;border:1px solid var(--color-border);'>Visual impact in presentations</td><td style='padding:10px;border:1px solid var(--color-border);'>Quarterly sales comparison</td></tr></tbody></table><h2>Creating a Chart in Excel</h2><ol><li>Select the data range including headers.</li><li>Go to <strong>Insert > Chart</strong> and choose the chart type.</li><li>Excel creates the chart. Click on the chart to add a title, data labels, and legend.</li><li>Format colors to match your company's brand (avoid too many bright colors).</li><li>Copy the chart to paste into a Word report or PowerPoint presentation.</li></ol><h2>Workplace Scenario</h2><p>You have tracked monthly expenses for six months. Your manager wants a presentation for the board meeting. You create a column chart showing expenses by category and a pie chart showing the percentage of the total budget spent on each category. You add clear titles and data labels. You copy the charts into a PowerPoint slide. The board sees the information clearly and approves the next quarter's budget in minutes.</p>",
+  "downloads": [
+    {
+      "title": "Chart Guide",
+      "description": "How to create charts in Excel",
+      "url": "resources/pdfs/chart-creation-guide.pdf"
+    }
+  ],
+  "exercise": "Create a spreadsheet with monthly sales data for 6 months: Jan (12,000), Feb (15,000), Mar (14,000), Apr (18,000), May (20,000), Jun (22,000). Create a column chart, a line chart, and a pie chart from the same data. Add titles and data labels to each. Format the colors to look professional. Save the file as Charts_Practice.xlsx.",
+  "quiz": [
+    {
+      "question": "Which chart type is best for showing trends over time?",
+      "options": [
+        "Pie chart",
+        "Line chart",
+        "Column chart",
+        "Bar chart"
+      ],
+      "correct": 1,
+      "explanation": "A line chart connects data points with lines, making it ideal for showing trends and changes over time."
+    },
+    {
+      "question": "When would you use a pie chart?",
+      "options": [
+        "To compare sales across regions",
+        "To show how a budget is divided into categories",
+        "To track daily temperature changes",
+        "To rank employees by performance"
+      ],
+      "correct": 1,
+      "explanation": "A pie chart shows parts of a whole, making it perfect for displaying percentages like budget allocation."
+    },
+    {
+      "question": "What should you always include on a chart?",
+      "options": [
+        "A border around the entire sheet",
+        "A clear title and data labels",
+        "A photo of the manager",
+        "The company logo only"
+      ],
+      "correct": 1,
+      "explanation": "A chart title and data labels help the reader understand what the chart shows and what each value represents."
+    },
+    {
+      "question": "Why should you copy a chart into a PowerPoint presentation?",
+      "options": [
+        "To make the file larger",
+        "To present data visually in a meeting",
+        "To delete the original data",
+        "To add more colors"
+      ],
+      "correct": 1,
+      "explanation": "Charts are visual tools that help audiences understand data quickly during presentations and meetings."
+    }
+  ]
+}
